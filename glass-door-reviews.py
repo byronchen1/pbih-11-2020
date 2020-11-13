@@ -26,7 +26,7 @@ def glass_door(ticker, address, usr, pwd):
     except:
         pass
     df=pd.DataFrame(desc)
-    df.to_csv(f'df_{ticker}.csv', columns=['Date', 'Rating'], index=False)
+    df.to_csv(f'df_{ticker}.csv', index=False)
     driver.close()
     
 companies = {'wcn':'https://www.glassdoor.ca/Reviews/Waste-Connections-Reviews-E7903.htm',
