@@ -1,2209 +1,2346 @@
-Date,Rating,Ticker
-21-Jul-20,5,bdx
-28-Apr-20,2,bdx
-06-Oct-19,4,bdx
-20-Sep-18,1,bdx
-26-Feb-18,3,bdx
-17-Jul-17,5,bdx
-28-Aug-16,1,bdx
-27-Feb-15,1,bdx
-28-Nov-14,3,bdx
-28-Oct-14,1,bdx
-30-Jan-20,3,bdx
-13-Jan-20,5,bdx
-13-Jan-20,5,bdx
-10-Jan-20,5,bdx
-10-Jan-20,4,bdx
-23-Jan-20,3,bdx
-01-Jan-20,5,bdx
-04-Feb-20,1,bdx
-18-Jan-20,3,bdx
-06-Feb-20,1,bdx
-12-Jul-18,2,bdx
-27-Jun-18,5,bdx
-26-Jun-18,4,bdx
-27-Jun-18,3,bdx
-29-Jun-18,3,bdx
-17-Jul-18,1,bdx
-15-Jun-18,2,bdx
-08-Jun-18,4,bdx
-04-Jun-18,4,bdx
-17-Jun-18,3,bdx
-09-Feb-17,4,bdx
-06-Mar-17,1,bdx
-17-Jan-17,5,bdx
-31-Jan-17,4,bdx
-30-Jan-17,4,bdx
-02-Feb-17,3,bdx
-27-Jan-17,4,bdx
-25-Jan-17,4,bdx
-25-Feb-17,1,bdx
-31-Jan-17,2,bdx
-13-Jan-16,2,bdx
-01-Feb-16,1,bdx
-06-Jan-16,2,bdx
-29-Dec-15,2,bdx
-22-Jan-16,1,bdx
-01-Jan-16,3,bdx
-15-Dec-15,5,bdx
-15-Dec-15,4,bdx
-14-Dec-15,4,bdx
-26-Dec-15,3,bdx
-10-Feb-14,3,bdx
-04-Feb-14,3,bdx
-21-Feb-14,1,bdx
-16-Jan-14,4,bdx
-06-Feb-14,1,bdx
-13-Jan-14,3,bdx
-28-Dec-13,4,bdx
-26-Dec-13,4,bdx
-16-Dec-13,4,bdx
-15-Dec-13,3,bdx
-21-Oct-20,5,brk
-05-Oct-20,5,brk
-11-Oct-20,4,brk
-10-Oct-20,3,brk
-22-Sep-20,5,brk
-05-Oct-20,4,brk
-16-Sep-20,5,brk
-16-Sep-20,5,brk
-25-Sep-20,4,brk
-29-Aug-20,5,brk
-20-Feb-20,3,brk
-10-Mar-20,1,brk
-31-Jan-20,5,brk
-30-Jan-20,5,brk
-12-Jan-20,5,brk
-29-Jan-20,4,brk
-27-Jan-20,3,brk
-04-Feb-20,1,brk
-12-Jan-20,4,brk
-28-Dec-19,5,brk
-06-Mar-19,4,brk
-04-Mar-19,3,brk
-08-Feb-19,4,brk
-22-Jan-19,5,brk
-22-Jan-19,5,brk
-25-Feb-19,1,brk
-15-Jan-19,5,brk
-08-Jan-19,5,brk
-23-Dec-18,5,brk
-10-Jan-19,3,brk
-04-May-18,1,brk
-29-Mar-18,5,brk
-01-May-18,1,brk
-08-Apr-18,3,brk
-16-Mar-18,5,brk
-12-Mar-18,5,brk
-26-Mar-18,3,brk
-10-Feb-18,5,brk
-06-Mar-18,5,brk
-06-Mar-18,5,brk
-12-Sep-17,3,brk
-25-Aug-17,5,brk
-20-Aug-17,5,brk
-15-Aug-17,5,brk
-26-Aug-17,4,brk
-22-Aug-17,4,brk
-21-Aug-17,3,brk
-09-Aug-17,2,brk
-19-Aug-17,3,brk
-03-Aug-17,5,brk
-02-Feb-17,3,brk
-07-Feb-17,1,brk
-26-Jan-17,4,brk
-15-Feb-17,1,brk
-24-Jan-17,3,brk
-17-Jan-17,3,brk
-12-Jan-17,2,brk
-29-Dec-16,5,brk
-04-Jan-17,4,brk
-03-Jan-17,4,brk
-18-Jul-16,5,brk
-26-Jul-16,4,brk
-07-Jul-16,5,brk
-12-Jul-16,4,brk
-07-Jul-16,3,brk
-08-Jun-16,5,brk
-03-Jun-16,5,brk
-14-Jun-16,4,brk
-13-Jun-16,4,brk
-10-Jun-16,3,brk
-20-Oct-15,3,brk
-15-Oct-15,4,brk
-15-Oct-15,4,brk
-14-Oct-15,2,brk
-05-Oct-15,3,brk
-20-Sep-15,5,brk
-08-Sep-15,5,brk
-03-Sep-15,5,brk
-27-Aug-15,5,brk
-26-Aug-15,5,brk
-07-Jul-14,4,brk
-15-May-14,5,brk
-12-May-14,5,brk
-14-May-14,4,brk
-16-Mar-14,2,brk
-01-Aug-13,4,brk
-15-Aug-12,4,brk
-07-Dec-11,5,brk
-19-Dec-11,2,brk
-10-Jul-11,4,brk
-10-Nov-20,5,cb
-11-Sep-20,4,cb
-24-Jun-20,4,cb
-04-Jun-20,4,cb
-07-Feb-20,3,cb
-07-Jan-20,5,cb
-04-Feb-20,1,cb
-13-Dec-19,3,cb
-26-Nov-19,5,cb
-20-Nov-19,5,cb
-28-Sep-20,3,cb
-27-Sep-20,2,cb
-17-Oct-20,1,cb
-18-Oct-20,1,cb
-09-Sep-20,5,cb
-09-Sep-20,5,cb
-09-Sep-20,5,cb
-22-Sep-20,2,cb
-09-Sep-20,4,cb
-07-Sep-20,4,cb
-29-Jan-20,2,cb
-16-Jan-20,4,cb
-28-Jan-20,3,cb
-30-Jan-20,3,cb
-23-Jan-20,2,cb
-23-Jan-20,2,cb
-10-Jan-20,5,cb
-02-Jan-20,5,cb
-09-Jan-20,2,cb
-08-Jan-20,3,cb
-25-Jul-19,2,cb
-07-Jul-19,5,cb
-02-Aug-19,1,cb
-28-Jun-19,4,cb
-18-Jul-19,2,cb
-16-Jul-19,3,cb
-29-Jun-19,4,cb
-28-Jun-19,4,cb
-26-Jun-19,5,cb
-25-Jul-19,1,cb
-28-Jan-19,3,cb
-25-Jan-19,3,cb
-08-Jan-19,5,cb
-14-Feb-19,1,cb
-22-Jan-19,2,cb
-23-Jan-19,3,cb
-21-Jan-19,3,cb
-07-Jan-19,4,cb
-19-Jan-19,3,cb
-03-Jan-19,4,cb
-31-Jul-18,3,cb
-07-Jul-18,5,cb
-06-Jul-18,5,cb
-07-Aug-18,1,cb
-18-Jul-18,3,cb
-31-May-18,5,cb
-06-Jul-18,2,cb
-25-Jun-18,4,cb
-23-Jun-18,5,cb
-25-Jul-18,1,cb
-13-Dec-17,4,cb
-10-Dec-17,4,cb
-12-Dec-17,5,cb
-24-Dec-17,3,cb
-15-Nov-17,2,cb
-27-Nov-17,4,cb
-05-Jan-18,1,cb
-26-Nov-17,4,cb
-25-Nov-17,4,cb
-29-Nov-17,2,cb
-15-Jun-17,3,cb
-30-May-17,5,cb
-30-May-17,5,cb
-29-May-17,5,cb
-14-Jun-17,3,cb
-04-May-17,2,cb
-24-May-17,2,cb
-17-May-17,3,cb
-08-May-17,4,cb
-09-May-17,2,cb
-03-Feb-17,1,cb
-23-Jan-17,1,cb
-23-Dec-16,3,cb
-22-Dec-16,4,cb
-16-Dec-16,5,cb
-16-Dec-16,4,cb
-13-Dec-16,3,cb
-26-Dec-16,3,cb
-22-Dec-16,3,cb
-05-Jan-17,1,cb
-26-Jul-18,5,cmcsa
-15-Oct-20,3,cmcsa
-30-Mar-18,2,cmcsa
-18-Dec-17,3,cmcsa
-28-Aug-17,5,cmcsa
-02-Nov-16,1,cmcsa
-05-Aug-15,5,cmcsa
-04-Mar-15,5,cmcsa
-11-Nov-20,5,cmcsa
-11-Nov-20,4,cmcsa
-09-Oct-19,3,cmcsa
-11-Oct-19,3,cmcsa
-26-Sep-19,5,cmcsa
-26-Sep-19,4,cmcsa
-25-Sep-19,5,cmcsa
-25-Sep-19,4,cmcsa
-23-Sep-19,5,cmcsa
-23-Sep-19,5,cmcsa
-07-Oct-19,2,cmcsa
-23-Sep-19,4,cmcsa
-28-Sep-18,3,cmcsa
-05-Sep-18,4,cmcsa
-25-Sep-18,3,cmcsa
-27-Sep-18,3,cmcsa
-24-Aug-18,4,cmcsa
-12-Sep-18,5,cmcsa
-07-Sep-18,4,cmcsa
-17-Oct-18,1,cmcsa
-11-Sep-18,4,cmcsa
-12-Sep-18,4,cmcsa
-29-Nov-17,1,cmcsa
-26-Oct-17,4,cmcsa
-26-Oct-17,4,cmcsa
-07-Nov-17,3,cmcsa
-09-Nov-17,3,cmcsa
-09-Nov-17,3,cmcsa
-29-Nov-17,1,cmcsa
-25-Oct-17,5,cmcsa
-09-Nov-17,2,cmcsa
-09-Nov-17,2,cmcsa
-13-Feb-17,4,cmcsa
-27-Feb-17,3,cmcsa
-08-Feb-17,5,cmcsa
-12-Feb-17,4,cmcsa
-11-Feb-17,5,cmcsa
-11-Feb-17,5,cmcsa
-11-Feb-17,4,cmcsa
-08-Feb-17,4,cmcsa
-10-Feb-17,5,cmcsa
-07-Feb-17,4,cmcsa
-22-Jul-16,1,cmcsa
-16-Jun-16,4,cmcsa
-16-Jun-16,4,cmcsa
-30-Jun-16,3,cmcsa
-20-Jul-16,1,cmcsa
-07-Jun-16,5,cmcsa
-08-Jun-16,5,cmcsa
-29-Jun-16,3,cmcsa
-14-Jun-16,5,cmcsa
-14-Jun-16,5,cmcsa
-22-Oct-15,5,cmcsa
-22-Oct-15,4,cmcsa
-04-Nov-15,3,cmcsa
-21-Oct-15,5,cmcsa
-13-Oct-15,4,cmcsa
-21-Oct-15,4,cmcsa
-21-Oct-15,4,cmcsa
-31-Oct-15,3,cmcsa
-20-Oct-15,5,cmcsa
-16-Oct-15,5,cmcsa
-03-Apr-15,1,cmcsa
-13-Mar-15,3,cmcsa
-12-Mar-15,2,cmcsa
-10-Mar-15,3,cmcsa
-25-Feb-15,5,cmcsa
-11-Mar-15,2,cmcsa
-31-Mar-15,1,cmcsa
-24-Feb-15,5,cmcsa
-24-Feb-15,5,cmcsa
-24-Feb-15,5,cmcsa
-02-Feb-14,3,cmcsa
-06-Feb-14,3,cmcsa
-25-Feb-14,1,cmcsa
-17-Jan-14,4,cmcsa
-25-Jan-14,4,cmcsa
-25-Jan-14,4,cmcsa
-25-Jan-14,4,cmcsa
-25-Jan-14,4,cmcsa
-06-Feb-14,2,cmcsa
-25-Feb-14,1,cmcsa
-06-Nov-20,5,cost
-02-Nov-20,5,cost
-29-Oct-20,5,cost
-11-Nov-20,4,cost
-11-Nov-20,4,cost
-27-Oct-20,5,cost
-27-Oct-20,5,cost
-26-Oct-20,5,cost
-25-Oct-20,5,cost
-06-Nov-20,4,cost
-11-Sep-15,4,cost
-02-Sep-15,4,cost
-01-Sep-15,3,cost
-03-Sep-15,3,cost
-18-Aug-15,5,cost
-20-Aug-15,3,cost
-18-Aug-15,3,cost
-27-Aug-15,1,cost
-04-Aug-15,4,cost
-17-Aug-15,1,cost
-29-May-20,5,cost
-08-Jun-20,3,cost
-28-May-20,5,cost
-10-Jun-20,4,cost
-22-May-20,5,cost
-22-May-20,5,cost
-21-May-20,5,cost
-04-Jun-20,4,cost
-02-Jun-20,4,cost
-02-Jun-20,2,cost
-24-Apr-19,4,cost
-24-Apr-19,4,cost
-08-Apr-19,5,cost
-11-Apr-19,4,cost
-24-Apr-19,2,cost
-07-Apr-19,5,cost
-08-Apr-19,5,cost
-08-Apr-19,5,cost
-22-Apr-19,2,cost
-07-Apr-19,5,cost
-20-Apr-18,5,cost
-19-Apr-18,5,cost
-26-Apr-18,4,cost
-02-May-18,4,cost
-01-May-18,4,cost
-27-Apr-18,4,cost
-11-Apr-18,5,cost
-23-Apr-18,4,cost
-27-Apr-18,2,cost
-10-Apr-18,5,cost
-14-Jul-17,3,cost
-10-Jul-17,4,cost
-13-Jul-17,3,cost
-12-Jul-17,4,cost
-31-Jul-17,1,cost
-26-Jun-17,5,cost
-10-Jul-17,4,cost
-26-Jun-17,5,cost
-26-Jun-17,5,cost
-26-Jun-17,5,cost
-31-Aug-16,5,cost
-31-Aug-16,5,cost
-11-Sep-16,4,cost
-27-Aug-16,5,cost
-12-Sep-16,3,cost
-14-Sep-16,3,cost
-13-Sep-16,4,cost
-13-Sep-16,4,cost
-23-Aug-16,5,cost
-28-Aug-16,5,cost
-18-Nov-15,3,cost
-04-Nov-15,5,cost
-04-Nov-15,5,cost
-04-Nov-15,5,cost
-03-Nov-15,5,cost
-25-Oct-15,5,cost
-12-Nov-15,4,cost
-29-Oct-15,5,cost
-01-Nov-15,5,cost
-25-Oct-15,5,cost
-25-Dec-14,4,cost
-12-Jan-15,4,cost
-12-Jan-15,5,cost
-12-Jan-15,4,cost
-19-Jan-15,2,cost
-06-Jan-15,5,cost
-20-Jan-15,4,cost
-17-Jan-15,2,cost
-19-Jan-15,3,cost
-21-Jan-15,2,cost
-09-Nov-20,5,dhr
-22-Sep-20,4,dhr
-06-Aug-20,5,dhr
-22-Jan-20,5,dhr
-13-Dec-19,4,dhr
-24-Oct-19,1,dhr
-12-Mar-19,3,dhr
-10-May-18,3,dhr
-14-Dec-17,3,dhr
-24-Aug-15,5,dhr
-21-Jul-20,5,dhr
-24-Jul-20,1,dhr
-16-Jun-20,4,dhr
-28-May-20,4,dhr
-26-Mar-20,4,dhr
-13-Feb-20,5,dhr
-14-Feb-20,3,dhr
-01-Feb-20,5,dhr
-01-Mar-20,1,dhr
-16-Jan-20,4,dhr
-07-Mar-19,5,dhr
-10-Apr-19,3,dhr
-10-Apr-19,3,dhr
-23-Mar-19,4,dhr
-03-Apr-19,3,dhr
-11-Mar-19,4,dhr
-18-Mar-19,3,dhr
-05-Feb-19,5,dhr
-24-Jan-19,5,dhr
-08-Dec-18,5,dhr
-16-Feb-18,1,dhr
-12-Jan-18,5,dhr
-28-Dec-17,4,dhr
-03-Jan-18,1,dhr
-04-Dec-17,5,dhr
-01-Dec-17,5,dhr
-05-Dec-17,3,dhr
-26-Oct-17,4,dhr
-21-Oct-17,5,dhr
-12-Oct-17,4,dhr
-16-Jan-17,5,dhr
-10-Jan-17,3,dhr
-29-Jan-17,1,dhr
-14-Dec-16,2,dhr
-14-Nov-16,4,dhr
-07-Dec-16,1,dhr
-24-Oct-16,2,dhr
-12-Oct-16,4,dhr
-25-Sep-16,5,dhr
-28-Sep-16,3,dhr
-11-Nov-15,4,dhr
-22-Oct-15,4,dhr
-19-Oct-15,2,dhr
-31-Oct-15,3,dhr
-15-Oct-15,4,dhr
-13-Oct-15,4,dhr
-06-Oct-15,4,dhr
-04-Oct-15,5,dhr
-05-Sep-15,5,dhr
-16-Sep-15,2,dhr
-04-Jan-15,5,dhr
-14-Jan-15,3,dhr
-12-Jan-15,3,dhr
-08-Jan-15,3,dhr
-24-Dec-14,4,dhr
-11-Dec-14,4,dhr
-04-Dec-14,4,dhr
-26-Nov-14,4,dhr
-07-Dec-14,3,dhr
-18-Nov-14,3,dhr
-19-Mar-14,3,dhr
-12-Mar-14,3,dhr
-15-Feb-14,3,dhr
-19-Feb-14,1,dhr
-25-Feb-14,1,dhr
-12-Jan-14,1,dhr
-30-Dec-13,3,dhr
-26-Oct-13,5,dhr
-18-Nov-13,3,dhr
-25-Oct-13,5,dhr
-11-Oct-12,1,dhr
-14-Sep-12,3,dhr
-17-Aug-12,2,dhr
-31-Jul-12,4,dhr
-26-Jun-12,4,dhr
-05-Jun-12,5,dhr
-25-Apr-12,3,dhr
-08-Apr-12,2,dhr
-21-Apr-12,1,dhr
-08-Mar-12,4,dhr
-10-Nov-20,5,hd
-10-Nov-20,5,hd
-04-Nov-20,4,hd
-03-Nov-20,4,hd
-30-Oct-20,4,hd
-28-Oct-20,5,hd
-29-Oct-20,4,hd
-12-Nov-20,3,hd
-26-Oct-20,5,hd
-26-Oct-20,4,hd
-16-Jul-20,2,hd
-01-Jul-20,4,hd
-01-Jul-20,4,hd
-14-Jul-20,3,hd
-15-Jul-20,3,hd
-15-Jul-20,3,hd
-15-Jul-20,3,hd
-30-Jun-20,5,hd
-30-Jun-20,5,hd
-30-Jun-20,5,hd
-04-May-19,3,hd
-17-Apr-19,4,hd
-04-May-19,2,hd
-19-Apr-19,4,hd
-19-Apr-19,4,hd
-02-May-19,3,hd
-03-May-19,3,hd
-03-May-19,3,hd
-03-May-19,3,hd
-03-May-19,3,hd
-29-Apr-18,2,hd
-09-Apr-18,5,hd
-28-Apr-18,3,hd
-28-Apr-18,3,hd
-13-Apr-18,5,hd
-13-Apr-18,4,hd
-13-Apr-18,4,hd
-23-Apr-18,3,hd
-27-Apr-18,3,hd
-17-May-18,1,hd
-19-Jun-17,4,hd
-19-Jun-17,4,hd
-29-Jun-17,3,hd
-29-Jun-17,3,hd
-01-Jul-17,3,hd
-23-Jul-17,1,hd
-29-Jun-17,2,hd
-22-Jul-17,1,hd
-18-Jun-17,4,hd
-18-Jun-17,4,hd
-10-Oct-16,3,hd
-10-Oct-16,3,hd
-10-Oct-16,3,hd
-10-Oct-16,2,hd
-07-Oct-16,3,hd
-07-Oct-16,3,hd
-09-Oct-16,3,hd
-09-Oct-16,2,hd
-09-Oct-16,2,hd
-24-Sep-16,4,hd
-04-Feb-16,3,hd
-05-Feb-16,3,hd
-05-Feb-16,3,hd
-21-Jan-16,5,hd
-04-Feb-16,2,hd
-05-Feb-16,2,hd
-25-Feb-16,1,hd
-20-Jan-16,4,hd
-21-Jan-16,4,hd
-21-Jan-16,4,hd
-13-Jun-15,2,hd
-30-May-15,4,hd
-09-Jun-15,3,hd
-11-Jun-15,3,hd
-13-Jun-15,3,hd
-28-May-15,5,hd
-29-May-15,5,hd
-12-Jun-15,2,hd
-12-Jun-15,2,hd
-03-Jul-15,1,hd
-15-Jun-14,3,hd
-15-Jun-14,2,hd
-31-May-14,4,hd
-28-May-14,4,hd
-28-May-14,4,hd
-30-May-14,5,hd
-13-Jun-14,2,hd
-13-Jun-14,2,hd
-02-Jun-14,5,hd
-14-Jun-14,2,hd
-17-Sep-20,4,hei
-29-Jun-20,3,hei
-23-Apr-20,4,hei
-17-Mar-20,3,hei
-05-Mar-20,3,hei
-26-Dec-19,5,hei
-29-Dec-19,2,hei
-12-Nov-19,3,hei
-29-Jul-19,3,hei
-13-Jun-19,1,hei
-27-Mar-19,4,hei
-10-Oct-18,5,hei
-08-Oct-18,3,hei
-20-Sep-18,5,hei
-19-Jun-18,5,hei
-28-Jun-18,1,hei
-29-Mar-18,5,hei
-09-Dec-17,5,hei
-13-Nov-17,2,hei
-09-Jun-17,5,hei
-01-Jul-17,1,hei
-03-May-17,5,hei
-02-May-17,5,hei
-29-Apr-17,3,hei
-28-Mar-17,5,hei
-03-Jan-17,3,hei
-14-Nov-16,2,hei
-29-Oct-16,3,hei
-04-Nov-16,1,hei
-27-Apr-16,4,hei
-18-May-16,1,hei
-14-Jan-16,5,hei
-29-Oct-15,4,hei
-20-Oct-15,3,hei
-29-Aug-15,2,hei
-08-Jun-15,4,hei
-12-Jun-15,2,hei
-23-Apr-15,2,hei
-21-Apr-15,2,hei
-09-Oct-14,2,hei
-27-Aug-14,1,hei
-14-Jan-14,5,hei
-12-Aug-13,3,hei
-22-May-13,4,hei
-25-Jun-13,1,hei
-18-Apr-13,5,hei
-04-Oct-12,2,hei
-28-Aug-12,3,hei
-11-May-12,1,hei
-02-Feb-12,1,hei
-17-Dec-11,2,hei
-23-Apr-11,1,hei
-19-Aug-19,5,idex
-26-Nov-14,4,idex
-09-Nov-20,5,idex
-26-Oct-20,5,idex
-23-Oct-20,5,idex
-20-Oct-20,5,idex
-07-Oct-20,5,idex
-19-Oct-20,4,idex
-18-Oct-20,2,idex
-01-Oct-20,5,idex
-19-Aug-19,5,idex
-26-Nov-14,4,idex
-09-Nov-20,5,idex
-26-Oct-20,5,idex
-23-Oct-20,5,idex
-20-Oct-20,5,idex
-07-Oct-20,5,idex
-19-Oct-20,4,idex
-18-Oct-20,2,idex
-01-Oct-20,5,idex
-16-Feb-20,4,idex
-14-Feb-20,1,idex
-14-Jan-20,2,idex
-25-Nov-19,5,idex
-24-Nov-19,4,idex
-24-Nov-19,1,idex
-21-Oct-19,4,idex
-12-Oct-19,4,idex
-11-Oct-19,4,idex
-30-Sep-19,4,idex
-05-Sep-19,5,idex
-08-Aug-19,5,idex
-27-Aug-19,5,idex
-26-Aug-19,5,idex
-19-Aug-19,5,idex
-22-Aug-19,5,idex
-22-Aug-19,5,idex
-19-Aug-19,5,idex
-19-Aug-19,5,idex
-19-Aug-19,5,idex
-27-Jun-19,4,idex
-26-Apr-19,4,idex
-11-Apr-19,1,idex
-11-Mar-19,3,idex
-20-Feb-19,5,idex
-19-Mar-19,1,idex
-15-Feb-19,2,idex
-14-Feb-19,1,idex
-26-Jan-19,1,idex
-16-Jan-19,1,idex
-12-Nov-18,5,idex
-28-Aug-18,3,idex
-02-Aug-18,2,idex
-13-Jul-18,1,idex
-29-May-18,1,idex
-18-Dec-17,5,idex
-21-Jan-18,1,idex
-29-Dec-17,2,idex
-09-Oct-17,3,idex
-04-Sep-17,2,idex
-17-Feb-17,3,idex
-12-Feb-17,2,idex
-06-Feb-17,2,idex
-28-Jan-17,2,idex
-27-Jan-17,2,idex
-03-Dec-16,4,idex
-05-Oct-16,5,idex
-08-Oct-16,5,idex
-06-Nov-16,1,idex
-23-Sep-16,5,idex
-28-Sep-16,4,idex
-20-Sep-16,4,idex
-04-Aug-16,5,idex
-09-Aug-16,4,idex
-09-Aug-16,3,idex
-22-Aug-16,1,idex
-29-Jun-16,3,idex
-14-Jun-16,4,idex
-15-May-16,2,idex
-12-Apr-16,4,idex
-25-Aug-15,4,idex
-07-Aug-15,4,idex
-23-Jul-15,5,idex
-28-Jul-15,3,idex
-26-May-15,2,idex
-22-May-15,4,idex
-07-May-15,1,idex
-26-Mar-15,5,idex
-09-Apr-15,4,idex
-31-Mar-15,2,idex
-04-Nov-20,5,jnj
-02-Nov-20,5,jnj
-20-Oct-20,5,jnj
-15-Oct-20,5,jnj
-20-Oct-20,4,jnj
-16-Oct-20,4,jnj
-28-Sep-20,5,jnj
-30-Sep-20,4,jnj
-15-Sep-20,5,jnj
-29-Sep-20,4,jnj
-17-Apr-20,4,jnj
-17-Apr-20,3,jnj
-15-Apr-20,3,jnj
-01-Apr-20,5,jnj
-01-Apr-20,5,jnj
-15-Apr-20,4,jnj
-31-Mar-20,5,jnj
-06-May-20,1,jnj
-30-Mar-20,5,jnj
-02-May-20,1,jnj
-12-Feb-19,5,jnj
-12-Feb-19,5,jnj
-26-Feb-19,4,jnj
-26-Feb-19,4,jnj
-24-Feb-19,2,jnj
-24-Feb-19,4,jnj
-22-Feb-19,4,jnj
-16-Mar-19,1,jnj
-06-Feb-19,5,jnj
-07-Feb-19,5,jnj
-03-Dec-17,5,jnj
-28-Nov-17,5,jnj
-01-Dec-17,5,jnj
-01-Dec-17,5,jnj
-29-Nov-17,5,jnj
-29-Nov-17,5,jnj
-13-Dec-17,4,jnj
-11-Dec-17,4,jnj
-09-Dec-17,4,jnj
-10-Dec-17,3,jnj
-10-Nov-16,4,jnj
-26-Oct-16,5,jnj
-23-Oct-16,5,jnj
-07-Nov-16,4,jnj
-07-Nov-16,4,jnj
-03-Nov-16,4,jnj
-01-Nov-16,4,jnj
-03-Nov-16,4,jnj
-03-Nov-16,4,jnj
-28-Oct-16,4,jnj
-11-Sep-15,5,jnj
-28-Sep-15,4,jnj
-02-Oct-15,4,jnj
-30-Sep-15,2,jnj
-01-Oct-15,4,jnj
-16-Sep-15,5,jnj
-30-Sep-15,4,jnj
-30-Sep-15,4,jnj
-22-Oct-15,1,jnj
-09-Sep-15,5,jnj
-07-Feb-14,4,jnj
-06-Feb-14,4,jnj
-22-Jan-14,5,jnj
-04-Feb-14,4,jnj
-20-Jan-14,5,jnj
-17-Feb-14,1,jnj
-01-Feb-14,2,jnj
-27-Jan-14,3,jnj
-30-Jan-14,4,jnj
-19-Feb-14,1,jnj
-23-Jul-10,4,jnj
-23-Jul-10,2,jnj
-07-Jul-10,5,jnj
-06-Jul-10,5,jnj
-11-Aug-10,1,jnj
-20-Jul-10,3,jnj
-16-Jul-10,4,jnj
-14-Jul-10,3,jnj
-11-Jul-10,4,jnj
-11-Jul-10,3,jnj
-30-Mar-20,5,ko
-10-Nov-20,5,ko
-07-Nov-20,4,ko
-09-Nov-20,3,ko
-17-Oct-20,4,ko
-06-Oct-20,4,ko
-20-Oct-20,3,ko
-15-Oct-20,3,ko
-15-Oct-20,3,ko
-29-Sep-20,4,ko
-16-Jan-20,5,ko
-21-Feb-20,1,ko
-18-Feb-20,1,ko
-14-Jan-20,5,ko
-24-Jan-20,3,ko
-10-Jan-20,5,ko
-15-Feb-20,1,ko
-09-Jan-20,4,ko
-09-Jan-20,4,ko
-21-Jan-20,3,ko
-21-Sep-18,1,ko
-16-Aug-18,4,ko
-14-Aug-18,5,ko
-27-Aug-18,2,ko
-29-Aug-18,3,ko
-14-Aug-18,5,ko
-19-Sep-18,1,ko
-29-Aug-18,2,ko
-28-Aug-18,3,ko
-12-Aug-18,4,ko
-22-Aug-17,4,ko
-21-Aug-17,4,ko
-21-Aug-17,4,ko
-04-Sep-17,3,ko
-04-Sep-17,3,ko
-20-Aug-17,4,ko
-03-Sep-17,3,ko
-18-Aug-17,4,ko
-01-Sep-17,2,ko
-17-Aug-17,4,ko
-23-Oct-16,5,ko
-23-Oct-16,4,ko
-06-Nov-16,2,ko
-20-Oct-16,4,ko
-19-Oct-16,5,ko
-19-Oct-16,4,ko
-18-Oct-16,4,ko
-01-Nov-16,3,ko
-17-Oct-16,5,ko
-21-Nov-16,1,ko
-28-Dec-15,5,ko
-11-Jan-16,2,ko
-11-Jan-16,2,ko
-11-Jan-16,2,ko
-26-Dec-15,5,ko
-08-Jan-16,3,ko
-06-Jan-16,3,ko
-05-Jan-16,3,ko
-15-Dec-15,4,ko
-14-Dec-15,4,ko
-08-Apr-15,5,ko
-24-Apr-15,3,ko
-10-Apr-15,5,ko
-24-Apr-15,3,ko
-23-Apr-15,2,ko
-12-May-15,1,ko
-06-Apr-15,4,ko
-20-Apr-15,3,ko
-03-Apr-15,4,ko
-18-Apr-15,3,ko
-09-Oct-13,2,ko
-28-Oct-13,1,ko
-06-Oct-13,3,ko
-10-Oct-13,3,ko
-30-Oct-13,1,ko
-30-Oct-13,1,ko
-30-Oct-13,1,ko
-07-Oct-13,3,ko
-20-Sep-13,5,ko
-03-Oct-13,3,ko
-21-Oct-10,3,ko
-19-Oct-10,3,ko
-03-Oct-10,5,ko
-10-Oct-10,3,ko
-01-Oct-10,2,ko
-29-Sep-10,3,ko
-04-Sep-10,4,ko
-12-Sep-10,2,ko
-07-Sep-10,2,ko
-03-Sep-10,3,ko
-01-Jul-20,5,lin
-31-Jul-20,4,lin
-02-Jul-20,4,lin
-22-Jun-20,4,lin
-30-Mar-20,4,lin
-24-Feb-20,3,lin
-21-Aug-19,4,lin
-05-Jul-19,5,lin
-10-Mar-18,2,lin
-14-Feb-18,5,lin
-23-Jun-20,5,lin
-08-Jul-20,2,lin
-19-Jun-20,5,lin
-16-Jun-20,5,lin
-15-Jun-20,4,lin
-28-Jun-20,2,lin
-11-Jun-20,5,lin
-23-Jun-20,3,lin
-25-Jun-20,3,lin
-25-Jun-20,3,lin
-22-May-19,5,lin
-22-May-19,5,lin
-22-May-19,4,lin
-17-May-19,5,lin
-14-May-19,5,lin
-11-May-19,4,lin
-07-May-19,4,lin
-15-May-19,3,lin
-13-May-19,3,lin
-23-Apr-19,4,lin
-17-Jun-18,1,lin
-18-Jun-18,1,lin
-23-May-18,2,lin
-06-May-18,5,lin
-30-Apr-18,4,lin
-29-Apr-18,4,lin
-11-May-18,3,lin
-02-May-18,3,lin
-24-Apr-18,2,lin
-11-Apr-18,4,lin
-10-Sep-17,2,lin
-29-Sep-17,1,lin
-30-Aug-17,3,lin
-24-Sep-17,1,lin
-27-Aug-17,3,lin
-22-Aug-17,3,lin
-12-Aug-17,4,lin
-22-Aug-17,3,lin
-13-Sep-17,1,lin
-19-Aug-17,2,lin
-18-Jan-17,4,lin
-30-Jan-17,2,lin
-16-Jan-17,4,lin
-13-Jan-17,4,lin
-14-Feb-17,1,lin
-08-Jan-17,4,lin
-18-Jan-17,3,lin
-03-Jan-17,4,lin
-14-Jan-17,3,lin
-31-Dec-16,5,lin
-09-Mar-16,1,lin
-10-Mar-16,1,lin
-13-Feb-16,3,lin
-14-Feb-16,3,lin
-27-Jan-16,4,lin
-07-Feb-16,2,lin
-11-Feb-16,2,lin
-01-Mar-16,1,lin
-21-Jan-16,4,lin
-03-Feb-16,3,lin
-04-May-15,3,lin
-01-May-15,3,lin
-29-Apr-15,2,lin
-28-Apr-15,3,lin
-18-May-15,1,lin
-14-Mar-15,5,lin
-24-Mar-15,3,lin
-12-Apr-15,1,lin
-03-Mar-15,4,lin
-09-Mar-15,3,lin
-19-Apr-13,3,lin
-16-Mar-13,4,lin
-14-Feb-13,4,lin
-02-Feb-13,4,lin
-02-Feb-13,3,lin
-23-Jan-13,3,lin
-21-Jan-13,2,lin
-04-Dec-12,3,lin
-11-Oct-12,5,lin
-04-Oct-12,5,lin
-2020-11-12,5,mcd
-11-Nov-20,5,mcd
-12-Nov-20,4,mcd
-10-Nov-20,4,mcd
-10-Nov-20,4,mcd
-11-Nov-20,4,mcd
-10-Nov-20,4,mcd
-08-Nov-20,5,mcd
-08-Nov-20,4,mcd
-07-Nov-20,5,mcd
-24-Sep-20,1,mcd
-24-Sep-20,1,mcd
-03-Sep-20,2,mcd
-19-Aug-20,4,mcd
-19-Aug-20,4,mcd
-19-Aug-20,4,mcd
-19-Aug-20,4,mcd
-19-Aug-20,4,mcd
-01-Sep-20,3,mcd
-02-Sep-20,3,mcd
-27-Feb-19,5,mcd
-14-Mar-19,2,mcd
-14-Mar-19,2,mcd
-27-Feb-19,4,mcd
-27-Feb-19,4,mcd
-13-Mar-19,3,mcd
-13-Mar-19,3,mcd
-13-Mar-19,2,mcd
-25-Feb-19,4,mcd
-26-Feb-19,4,mcd
-21-Oct-16,4,mcd
-21-Oct-16,4,mcd
-04-Nov-16,3,mcd
-18-Oct-16,4,mcd
-24-Nov-16,1,mcd
-25-Nov-16,1,mcd
-04-Nov-16,2,mcd
-20-Oct-16,4,mcd
-20-Oct-16,4,mcd
-20-Oct-16,4,mcd
-18-Nov-14,2,mcd
-15-Nov-14,3,mcd
-17-Nov-14,3,mcd
-17-Nov-14,3,mcd
-19-Nov-14,2,mcd
-22-Oct-14,4,mcd
-16-Nov-14,2,mcd
-13-Nov-14,3,mcd
-14-Nov-14,3,mcd
-14-Nov-14,2,mcd
-2020-11-12,5,mmm
-06-Nov-20,5,mmm
-09-Nov-20,3,mmm
-17-Oct-20,5,mmm
-15-Oct-20,5,mmm
-10-Oct-20,3,mmm
-22-Oct-20,1,mmm
-30-Jul-20,1,mmm
-15-Jul-20,1,mmm
-02-Jun-20,5,mmm
-17-Feb-20,4,mmm
-14-Feb-20,5,mmm
-13-Feb-20,4,mmm
-12-Feb-20,4,mmm
-26-Feb-20,2,mmm
-10-Feb-20,5,mmm
-06-Feb-20,4,mmm
-03-Feb-20,4,mmm
-08-Feb-20,4,mmm
-22-Feb-20,2,mmm
-20-Apr-19,4,mmm
-18-Apr-19,5,mmm
-16-Apr-19,5,mmm
-24-Apr-19,3,mmm
-28-Apr-19,3,mmm
-13-Apr-19,4,mmm
-11-Apr-19,5,mmm
-25-Apr-19,2,mmm
-10-Apr-19,4,mmm
-18-Apr-19,3,mmm
-17-Jun-18,3,mmm
-21-Jun-18,3,mmm
-05-Jun-18,4,mmm
-05-Jun-18,4,mmm
-04-Jun-18,4,mmm
-03-Jun-18,4,mmm
-02-Jun-18,5,mmm
-29-May-18,5,mmm
-11-Jun-18,3,mmm
-27-May-18,5,mmm
-11-Jun-17,5,mmm
-25-Jun-17,3,mmm
-22-Jun-17,3,mmm
-21-Jun-17,3,mmm
-08-Jun-17,5,mmm
-22-Jun-17,3,mmm
-07-Jun-17,4,mmm
-01-Jun-17,5,mmm
-05-Jun-17,4,mmm
-08-Jul-17,1,mmm
-02-Sep-16,2,mmm
-01-Sep-16,3,mmm
-12-Aug-16,4,mmm
-25-Aug-16,3,mmm
-12-Aug-16,5,mmm
-24-Aug-16,3,mmm
-06-Aug-16,5,mmm
-05-Aug-16,5,mmm
-17-Aug-16,3,mmm
-03-Aug-16,5,mmm
-01-Nov-15,4,mmm
-04-Nov-15,3,mmm
-14-Nov-15,3,mmm
-27-Oct-15,4,mmm
-01-Nov-15,3,mmm
-27-Oct-15,4,mmm
-06-Nov-15,3,mmm
-05-Nov-15,3,mmm
-07-Nov-15,3,mmm
-22-Oct-15,4,mmm
-11-Oct-14,4,mmm
-01-Oct-14,4,mmm
-09-Oct-14,4,mmm
-08-Oct-14,5,mmm
-07-Oct-14,4,mmm
-25-Sep-14,5,mmm
-14-Oct-14,3,mmm
-13-Oct-14,3,mmm
-13-Oct-14,3,mmm
-08-Oct-14,3,mmm
-07-Sep-12,5,mmm
-25-Sep-12,3,mmm
-11-Sep-12,5,mmm
-09-Sep-12,5,mmm
-09-Sep-12,5,mmm
-19-Sep-12,3,mmm
-18-Sep-12,2,mmm
-12-Sep-12,3,mmm
-26-Aug-12,4,mmm
-28-Aug-12,4,mmm
-10-Nov-20,5,msft
-07-Nov-20,5,msft
-11-Nov-20,4,msft
-26-Oct-20,5,msft
-09-Nov-20,4,msft
-22-Oct-20,5,msft
-20-Oct-20,5,msft
-16-Oct-20,5,msft
-14-Oct-20,5,msft
-28-Oct-20,3,msft
-03-Jan-20,5,msft
-04-Jan-20,5,msft
-18-Jan-20,4,msft
-31-Dec-19,5,msft
-14-Jan-20,3,msft
-18-Jan-20,3,msft
-03-Jan-20,5,msft
-03-Jan-20,5,msft
-13-Jan-20,2,msft
-02-Jan-20,5,msft
-27-Jul-18,5,msft
-27-Jul-18,5,msft
-02-Aug-18,4,msft
-10-Aug-18,4,msft
-23-Jul-18,5,msft
-10-Aug-18,3,msft
-25-Jul-18,5,msft
-25-Jul-18,5,msft
-26-Jul-18,5,msft
-09-Aug-18,4,msft
-14-May-17,3,msft
-29-Apr-17,5,msft
-09-May-17,2,msft
-03-Jun-17,1,msft
-13-May-17,3,msft
-27-Apr-17,5,msft
-27-Apr-17,5,msft
-28-Apr-17,5,msft
-28-Apr-17,5,msft
-28-Apr-17,5,msft
-21-Apr-16,5,msft
-04-May-16,4,msft
-05-May-16,4,msft
-05-May-16,4,msft
-05-May-16,4,msft
-05-May-16,4,msft
-17-Apr-16,5,msft
-03-May-16,3,msft
-04-May-16,3,msft
-05-May-16,3,msft
-18-Jun-15,5,msft
-18-Jun-15,5,msft
-01-Jul-15,4,msft
-02-Jul-15,4,msft
-02-Jul-15,2,msft
-28-Jun-15,4,msft
-04-Jun-15,5,msft
-02-Jul-15,3,msft
-02-Jul-15,3,msft
-02-Jul-15,3,msft
-13-May-14,4,msft
-13-May-14,4,msft
-13-May-14,4,msft
-13-May-14,3,msft
-28-Apr-14,5,msft
-12-May-14,4,msft
-09-May-14,4,msft
-10-May-14,3,msft
-10-May-14,3,msft
-12-May-14,3,msft
-17-Oct-12,4,msft
-18-Oct-12,4,msft
-18-Oct-12,4,msft
-04-Nov-12,1,msft
-12-Oct-12,2,msft
-11-Oct-12,3,msft
-13-Oct-12,3,msft
-16-Oct-12,4,msft
-16-Oct-12,4,msft
-17-Oct-12,4,msft
-05-Apr-10,4,msft
-05-Apr-10,4,msft
-20-Mar-10,5,msft
-29-Mar-10,3,msft
-31-Mar-10,4,msft
-03-Apr-10,2,msft
-27-Mar-10,4,msft
-27-Mar-10,4,msft
-02-Apr-10,3,msft
-04-Apr-10,4,msft
-07-Jul-20,5,mtd
-13-Sep-20,4,mtd
-26-Aug-20,2,mtd
-28-May-20,5,mtd
-07-Aug-19,3,mtd
-10-May-19,3,mtd
-14-Jan-19,5,mtd
-14-Jan-19,5,mtd
-11-Oct-18,5,mtd
-28-Sep-18,5,mtd
-15-Jul-20,5,mtd
-22-Jul-20,3,mtd
-30-Jun-20,2,mtd
-15-Jun-20,4,mtd
-13-Jun-20,4,mtd
-22-Jun-20,2,mtd
-09-Jun-20,4,mtd
-06-Jun-20,5,mtd
-15-May-20,4,mtd
-26-May-20,3,mtd
-05-Aug-19,5,mtd
-09-Aug-19,2,mtd
-16-Jul-19,5,mtd
-06-Aug-19,1,mtd
-25-Jun-19,5,mtd
-18-Jun-19,5,mtd
-04-Jul-19,3,mtd
-27-Jun-19,2,mtd
-26-Jun-19,3,mtd
-05-Jun-19,5,mtd
-14-Jan-19,5,mtd
-14-Jan-19,5,mtd
-14-Jan-19,5,mtd
-14-Jan-19,5,mtd
-14-Jan-19,5,mtd
-14-Jan-19,5,mtd
-14-Jan-19,5,mtd
-14-Jan-19,5,mtd
-14-Jan-19,4,mtd
-14-Jan-19,4,mtd
-23-Jun-18,5,mtd
-22-Jun-18,4,mtd
-02-Jul-18,3,mtd
-26-Jun-18,2,mtd
-31-May-18,3,mtd
-04-Jun-18,2,mtd
-22-Jun-18,1,mtd
-16-May-18,4,mtd
-18-May-18,4,mtd
-30-May-18,2,mtd
-22-Jun-17,3,mtd
-10-Jun-17,2,mtd
-29-May-17,4,mtd
-26-May-17,5,mtd
-18-Jun-17,1,mtd
-23-May-17,3,mtd
-04-May-17,5,mtd
-10-May-17,3,mtd
-18-Apr-17,5,mtd
-18-Apr-17,5,mtd
-16-Aug-16,1,mtd
-12-Jul-16,5,mtd
-12-Jul-16,3,mtd
-14-Jul-16,3,mtd
-30-Jun-16,4,mtd
-06-Jul-16,2,mtd
-25-May-16,4,mtd
-28-May-16,4,mtd
-07-Jun-16,2,mtd
-05-Jun-16,3,mtd
-27-Jul-15,5,mtd
-21-Jul-15,4,mtd
-22-Jul-15,3,mtd
-10-Jul-15,4,mtd
-28-Jun-15,3,mtd
-12-Jun-15,5,mtd
-21-Jun-15,3,mtd
-23-Jun-15,1,mtd
-30-May-15,3,mtd
-05-May-15,3,mtd
-03-Jul-13,5,mtd
-03-Jul-13,3,mtd
-27-May-13,4,mtd
-18-Apr-13,2,mtd
-19-Mar-13,4,mtd
-16-Dec-12,4,mtd
-21-Nov-12,5,mtd
-20-Nov-12,4,mtd
-04-Nov-12,4,mtd
-26-Oct-12,5,mtd
-11-Nov-20,5,nke
-09-Nov-20,5,nke
-05-Nov-20,5,nke
-25-Oct-20,5,nke
-06-Nov-20,3,nke
-21-Oct-20,5,nke
-28-Oct-20,4,nke
-28-Oct-20,4,nke
-20-Oct-20,2,nke
-13-Oct-20,4,nke
-14-Aug-20,4,nke
-14-Aug-20,3,nke
-13-Aug-20,4,nke
-13-Aug-20,4,nke
-12-Aug-20,4,nke
-28-Jul-20,5,nke
-11-Aug-20,4,nke
-09-Aug-20,4,nke
-10-Aug-20,4,nke
-10-Aug-20,4,nke
-08-Aug-19,3,nke
-07-Aug-19,4,nke
-07-Aug-19,4,nke
-03-Aug-19,4,nke
-05-Aug-19,3,nke
-06-Aug-19,3,nke
-06-Aug-19,4,nke
-19-Jul-19,5,nke
-22-Jul-19,5,nke
-27-Aug-19,1,nke
-12-Aug-18,4,nke
-24-Aug-18,2,nke
-22-Aug-18,4,nke
-22-Aug-18,4,nke
-18-Aug-18,4,nke
-20-Aug-18,4,nke
-12-Aug-18,4,nke
-11-Aug-18,3,nke
-14-Aug-18,3,nke
-01-Aug-18,5,nke
-21-Oct-17,4,nke
-24-Oct-17,3,nke
-09-Oct-17,5,nke
-23-Oct-17,4,nke
-08-Oct-17,5,nke
-08-Oct-17,5,nke
-22-Oct-17,4,nke
-21-Oct-17,4,nke
-19-Oct-17,3,nke
-06-Oct-17,5,nke
-11-Jan-17,5,nke
-25-Jan-17,4,nke
-25-Jan-17,4,nke
-16-Feb-17,1,nke
-23-Jan-17,3,nke
-25-Jan-17,3,nke
-10-Jan-17,5,nke
-25-Jan-17,2,nke
-24-Jan-17,3,nke
-09-Jan-17,5,nke
-21-Mar-16,4,nke
-20-Mar-16,2,nke
-05-Mar-16,5,nke
-18-Mar-16,4,nke
-17-Mar-16,4,nke
-02-Mar-16,5,nke
-01-Mar-16,5,nke
-14-Mar-16,3,nke
-29-Feb-16,5,nke
-29-Feb-16,5,nke
-05-Jun-15,5,nke
-19-Jun-15,3,nke
-19-Jun-15,3,nke
-18-Jun-15,4,nke
-19-Jun-15,2,nke
-03-Jun-15,5,nke
-03-Jun-15,5,nke
-14-Jun-15,4,nke
-16-Jun-15,4,nke
-16-Jun-15,3,nke
-25-Oct-13,5,nke
-24-Oct-13,5,nke
-06-Nov-13,4,nke
-03-Nov-13,3,nke
-04-Nov-13,4,nke
-17-Oct-13,3,nke
-25-Oct-13,4,nke
-09-Oct-13,5,nke
-22-Oct-13,3,nke
-07-Oct-13,5,nke
-22-Sep-20,5,sq
-15-Sep-20,2,sq
-06-Sep-20,1,sq
-29-Jul-20,5,sq
-21-Jul-20,5,sq
-21-Jul-20,5,sq
-19-May-20,5,sq
-19-Nov-19,5,sq
-24-Jun-19,4,sq
-03-Jun-19,4,sq
-12-May-20,4,sq
-12-May-20,4,sq
-30-Apr-20,5,sq
-02-May-20,5,sq
-16-Apr-20,5,sq
-27-Apr-20,5,sq
-29-Mar-20,5,sq
-01-Apr-20,5,sq
-26-Apr-20,1,sq
-18-Mar-20,5,sq
-19-Sep-19,5,sq
-12-Sep-19,4,sq
-19-Oct-19,1,sq
-21-Oct-19,1,sq
-26-Sep-19,3,sq
-25-Sep-19,3,sq
-12-Sep-19,5,sq
-25-Sep-19,3,sq
-16-Sep-19,3,sq
-04-Sep-19,5,sq
-13-Feb-19,1,sq
-10-Jan-19,4,sq
-14-Jan-19,5,sq
-17-Jan-19,1,sq
-16-Dec-18,4,sq
-02-Dec-18,5,sq
-16-Nov-18,4,sq
-29-Oct-18,5,sq
-05-Dec-18,1,sq
-07-Nov-18,4,sq
-07-Oct-17,5,sq
-05-Oct-17,5,sq
-04-Oct-17,4,sq
-08-Oct-17,2,sq
-22-Sep-17,4,sq
-23-Sep-17,5,sq
-21-Sep-17,4,sq
-03-Oct-17,3,sq
-08-Oct-17,1,sq
-04-Sep-17,4,sq
-19-Jan-17,4,sq
-17-Jan-17,4,sq
-28-Dec-16,5,sq
-01-Jan-17,2,sq
-04-Jan-17,4,sq
-27-Dec-16,2,sq
-27-Dec-16,3,sq
-26-Dec-16,2,sq
-12-Dec-16,3,sq
-14-Dec-16,5,sq
-30-Aug-16,5,sq
-30-Aug-16,5,sq
-30-Aug-16,5,sq
-30-Aug-16,5,sq
-30-Aug-16,5,sq
-30-Aug-16,5,sq
-30-Aug-16,4,sq
-30-Aug-16,4,sq
-29-Aug-16,5,sq
-09-Sep-16,2,sq
-18-Feb-16,5,sq
-22-Mar-16,1,sq
-08-Mar-16,1,sq
-10-Feb-16,5,sq
-21-Feb-16,2,sq
-09-Feb-16,4,sq
-04-Mar-16,1,sq
-22-Jan-16,5,sq
-03-Feb-16,3,sq
-07-Jan-16,5,sq
-15-Oct-14,5,sq
-14-Oct-14,5,sq
-14-Oct-14,5,sq
-14-Oct-14,5,sq
-14-Oct-14,5,sq
-17-Oct-14,4,sq
-17-Oct-14,4,sq
-14-Oct-14,4,sq
-14-Oct-14,4,sq
-16-Oct-14,5,sq
-08-Nov-20,5,tjx
-26-Oct-20,5,tjx
-20-Oct-20,4,tjx
-19-Oct-20,4,tjx
-21-Oct-20,3,tjx
-24-Oct-20,3,tjx
-09-Oct-20,4,tjx
-09-Oct-20,4,tjx
-23-Oct-20,2,tjx
-08-Oct-20,4,tjx
-15-Jul-20,4,tjx
-25-Jul-20,3,tjx
-12-Jul-20,5,tjx
-21-Jul-20,3,tjx
-03-Jul-20,5,tjx
-17-Jul-20,2,tjx
-03-Jul-20,4,tjx
-15-Jul-20,3,tjx
-07-Aug-20,1,tjx
-06-Aug-20,1,tjx
-20-Aug-18,5,tjx
-30-Aug-18,4,tjx
-05-Sep-18,3,tjx
-05-Sep-18,3,tjx
-28-Aug-18,3,tjx
-14-Aug-18,4,tjx
-12-Aug-18,5,tjx
-25-Aug-18,2,tjx
-07-Aug-18,2,tjx
-22-Aug-18,2,tjx
-16-Jan-17,4,tjx
-10-Jan-17,5,tjx
-24-Jan-17,3,tjx
-09-Feb-17,1,tjx
-09-Jan-17,4,tjx
-08-Jan-17,4,tjx
-05-Feb-17,1,tjx
-27-Dec-16,5,tjx
-11-Dec-16,5,tjx
-08-Dec-16,5,tjx
-16-Oct-15,5,tjx
-20-Oct-15,4,tjx
-01-Nov-15,3,tjx
-31-Oct-15,3,tjx
-31-Oct-15,3,tjx
-28-Oct-15,3,tjx
-26-Oct-15,3,tjx
-10-Oct-15,4,tjx
-08-Oct-15,4,tjx
-09-Nov-15,1,tjx
-21-Feb-15,5,tjx
-18-Feb-15,5,tjx
-05-Mar-15,2,tjx
-24-Feb-15,3,tjx
-16-Feb-15,4,tjx
-02-Mar-15,3,tjx
-21-Mar-15,1,tjx
-13-Feb-15,4,tjx
-11-Feb-15,4,tjx
-24-Feb-15,3,tjx
-12-Jan-13,3,tjx
-07-Dec-12,5,tjx
-08-Dec-12,3,tjx
-13-Dec-12,1,tjx
-08-Dec-12,1,tjx
-30-Oct-12,5,tjx
-13-Nov-12,2,tjx
-21-Oct-12,2,tjx
-10-Oct-12,3,tjx
-30-Oct-12,1,tjx
-29-Oct-20,5,tmo
-23-Sep-20,5,tmo
-20-Sep-20,3,tmo
-26-Aug-20,4,tmo
-24-Aug-20,4,tmo
-30-Aug-20,2,tmo
-08-Sep-20,1,tmo
-05-Aug-20,3,tmo
-31-Jul-20,3,tmo
-18-Jun-20,5,tmo
-10-Jun-20,4,tmo
-10-Jun-20,4,tmo
-24-Jun-20,3,tmo
-08-Jun-20,5,tmo
-08-Jun-20,5,tmo
-08-Jun-20,4,tmo
-21-Jun-20,2,tmo
-07-Jun-20,4,tmo
-19-Jun-20,2,tmo
-18-Jun-20,3,tmo
-25-Jul-19,1,tmo
-20-Jun-19,5,tmo
-04-Jul-19,3,tmo
-24-Jul-19,1,tmo
-19-Jun-19,4,tmo
-16-Jun-19,4,tmo
-26-Jun-19,3,tmo
-15-Jun-19,5,tmo
-20-Jul-19,1,tmo
-27-Jun-19,3,tmo
-06-Aug-18,4,tmo
-31-Jul-18,4,tmo
-20-Aug-18,2,tmo
-05-Aug-18,4,tmo
-09-Aug-18,3,tmo
-15-Aug-18,3,tmo
-12-Aug-18,3,tmo
-16-Aug-18,3,tmo
-01-Aug-18,4,tmo
-15-Aug-18,3,tmo
-16-Oct-17,3,tmo
-08-Nov-17,1,tmo
-09-Nov-17,1,tmo
-04-Oct-17,5,tmo
-04-Oct-17,5,tmo
-04-Oct-17,5,tmo
-04-Oct-17,4,tmo
-07-Nov-17,1,tmo
-26-Sep-17,4,tmo
-01-Oct-17,4,tmo
-15-Jan-17,3,tmo
-18-Jan-17,2,tmo
-04-Jan-17,4,tmo
-04-Jan-17,4,tmo
-03-Jan-17,5,tmo
-02-Jan-17,4,tmo
-02-Feb-17,1,tmo
-10-Jan-17,2,tmo
-27-Dec-16,5,tmo
-22-Dec-16,4,tmo
-29-Feb-16,3,tmo
-01-Mar-16,2,tmo
-24-Feb-16,3,tmo
-26-Feb-16,2,tmo
-10-Mar-16,1,tmo
-17-Feb-16,3,tmo
-05-Feb-16,4,tmo
-18-Feb-16,3,tmo
-24-Feb-16,3,tmo
-15-Feb-16,3,tmo
-15-Mar-15,3,tmo
-27-Mar-15,1,tmo
-23-Feb-15,5,tmo
-26-Feb-15,4,tmo
-27-Feb-15,4,tmo
-22-Feb-15,5,tmo
-25-Feb-15,4,tmo
-31-Mar-15,1,tmo
-06-Mar-15,2,tmo
-27-Mar-15,1,tmo
-20-Feb-13,2,tmo
-13-Feb-13,2,tmo
-06-Feb-13,3,tmo
-08-Feb-13,3,tmo
-31-Jan-13,2,tmo
-20-Jan-13,5,tmo
-27-Jan-13,3,tmo
-17-Feb-13,1,tmo
-11-Jan-13,5,tmo
-02-Jan-13,4,tmo
-12-Oct-20,5,twdc
-16-Sep-20,5,twdc
-30-Sep-20,1,twdc
-10-Aug-20,2,twdc
-27-May-20,5,twdc
-09-May-20,5,twdc
-08-Mar-20,5,twdc
-18-Nov-19,3,twdc
-23-Sep-19,5,twdc
-04-Sep-19,4,twdc
-07-Jul-20,5,twdc
-07-Jul-20,5,twdc
-21-Jul-20,4,twdc
-21-Jul-20,4,twdc
-06-Jul-20,5,twdc
-05-Jul-20,5,twdc
-19-Jul-20,4,twdc
-04-Jul-20,5,twdc
-18-Jul-20,4,twdc
-15-Jul-20,4,twdc
-04-Jun-19,5,twdc
-11-Jul-19,1,twdc
-20-Jun-19,2,twdc
-19-Jun-19,3,twdc
-04-Jun-19,5,twdc
-04-Jun-19,5,twdc
-19-Jun-19,2,twdc
-03-Jun-19,5,twdc
-17-Jun-19,4,twdc
-18-Jun-19,2,twdc
-17-May-18,1,twdc
-25-Apr-18,2,twdc
-24-Apr-18,3,twdc
-09-Apr-18,5,twdc
-23-Apr-18,4,twdc
-07-Apr-18,5,twdc
-17-Apr-18,3,twdc
-16-Apr-18,3,twdc
-18-Apr-18,4,twdc
-04-Mar-18,5,twdc
-28-Feb-17,3,twdc
-03-Mar-17,4,twdc
-16-Feb-17,5,twdc
-16-Feb-17,5,twdc
-02-Mar-17,4,twdc
-27-Feb-17,4,twdc
-27-Feb-17,3,twdc
-27-Feb-17,2,twdc
-17-Mar-17,1,twdc
-23-Feb-17,4,twdc
-29-Mar-16,5,twdc
-29-Mar-16,5,twdc
-12-Apr-16,2,twdc
-28-Mar-16,5,twdc
-28-Mar-16,5,twdc
-11-Apr-16,4,twdc
-09-Apr-16,4,twdc
-10-Apr-16,4,twdc
-10-Apr-16,4,twdc
-23-Mar-16,5,twdc
-29-Jun-15,5,twdc
-28-Jun-15,5,twdc
-12-Jul-15,4,twdc
-12-Jul-15,4,twdc
-27-Jun-15,5,twdc
-11-Jul-15,2,twdc
-11-Jul-15,4,twdc
-26-Jun-15,5,twdc
-26-Jun-15,5,twdc
-10-Jul-15,4,twdc
-17-Mar-14,4,twdc
-05-Mar-14,5,twdc
-19-Mar-14,2,twdc
-19-Mar-14,4,twdc
-19-Mar-14,4,twdc
-19-Mar-14,4,twdc
-10-Mar-14,4,twdc
-16-Mar-14,3,twdc
-10-Mar-14,4,twdc
-11-Mar-14,2,twdc
-06-May-10,2,twdc
-04-May-10,2,twdc
-25-Apr-10,3,twdc
-06-Apr-10,3,twdc
-27-Mar-10,4,twdc
-26-Mar-10,4,twdc
-20-Mar-10,4,twdc
-20-Mar-10,2,twdc
-08-Mar-10,5,twdc
-15-Mar-10,2,twdc
-11-Sep-20,5,txn
-17-Jun-20,5,txn
-15-Jun-20,5,txn
-05-Mar-20,4,txn
-31-Oct-19,5,txn
-20-Jun-19,3,txn
-11-Dec-17,1,txn
-22-Aug-17,2,txn
-15-Apr-16,5,txn
-10-Feb-16,4,txn
-19-Sep-19,5,txn
-17-Sep-19,5,txn
-21-Oct-19,1,txn
-11-Sep-19,5,txn
-25-Sep-19,2,txn
-22-Sep-19,2,txn
-05-Sep-19,5,txn
-16-Sep-19,2,txn
-04-Sep-19,3,txn
-14-Sep-19,4,txn
-02-Apr-18,3,txn
-25-Apr-18,1,txn
-21-Mar-18,5,txn
-04-Apr-18,4,txn
-03-Apr-18,4,txn
-03-Mar-18,5,txn
-02-Apr-18,3,txn
-29-Mar-18,4,txn
-27-Mar-18,4,txn
-26-Mar-18,3,txn
-03-Feb-17,4,txn
-03-Feb-17,4,txn
-30-Jan-17,4,txn
-01-Feb-17,3,txn
-26-Jan-17,4,txn
-24-Jan-17,4,txn
-27-Jan-17,4,txn
-27-Jan-17,2,txn
-25-Jan-17,3,txn
-09-Jan-17,5,txn
-23-Dec-15,2,txn
-27-Dec-15,4,txn
-27-Dec-15,4,txn
-11-Dec-15,5,txn
-13-Jan-16,1,txn
-11-Dec-15,5,txn
-09-Dec-15,5,txn
-23-Dec-15,4,txn
-20-Dec-15,4,txn
-08-Jan-16,1,txn
-21-Jan-15,4,txn
-22-Jan-15,4,txn
-18-Jan-15,3,txn
-19-Jan-15,3,txn
-18-Jan-15,4,txn
-17-Jan-15,4,txn
-16-Jan-15,4,txn
-10-Jan-15,3,txn
-12-Jan-15,4,txn
-01-Jan-15,4,txn
-09-Dec-13,5,txn
-10-Dec-13,2,txn
-10-Dec-13,3,txn
-12-Dec-13,3,txn
-07-Dec-13,3,txn
-13-Dec-13,4,txn
-12-Dec-13,4,txn
-02-Dec-13,3,txn
-26-Nov-13,4,txn
-30-Nov-13,2,txn
-15-Sep-12,5,txn
-27-Sep-12,4,txn
-28-Sep-12,4,txn
-27-Sep-12,4,txn
-10-Sep-12,5,txn
-21-Sep-12,4,txn
-19-Sep-12,2,txn
-04-Sep-12,5,txn
-18-Sep-12,4,txn
-16-Sep-12,4,txn
-05-Feb-10,4,txn
-10-Feb-10,2,txn
-09-Feb-10,3,txn
-11-Feb-10,2,txn
-25-Jan-10,5,txn
-26-Jan-10,5,txn
-05-Feb-10,4,txn
-04-Feb-10,3,txn
-29-Jan-10,3,txn
-29-Jan-10,3,txn
-03-Feb-20,5,v
-05-Jul-20,2,v
-11-May-20,4,v
-07-Feb-20,3,v
-23-Dec-19,5,v
-12-Apr-19,5,v
-07-Feb-19,3,v
-13-Mar-18,3,v
-18-Dec-17,1,v
-22-Jun-17,4,v
-26-Feb-20,5,v
-25-Feb-20,4,v
-10-Mar-20,3,v
-23-Feb-20,4,v
-21-Feb-20,5,v
-21-Feb-20,4,v
-21-Feb-20,4,v
-01-Mar-20,3,v
-17-Feb-20,4,v
-21-Mar-20,1,v
-05-Feb-19,4,v
-06-Feb-19,5,v
-13-Feb-19,4,v
-02-Feb-19,2,v
-30-Jan-19,5,v
-08-Feb-19,5,v
-09-Feb-19,4,v
-22-Feb-19,3,v
-12-Mar-19,1,v
-14-Mar-19,1,v
-15-Jan-18,4,v
-06-Feb-18,4,v
-11-Feb-18,2,v
-23-Jan-18,5,v
-02-Feb-18,5,v
-02-Feb-18,5,v
-31-Jan-18,4,v
-29-Jan-18,4,v
-09-Feb-18,3,v
-11-Feb-18,3,v
-10-May-17,3,v
-30-Apr-17,3,v
-19-May-17,1,v
-23-Apr-17,4,v
-18-Apr-17,5,v
-30-Apr-17,3,v
-06-Apr-17,2,v
-14-Apr-17,4,v
-17-Apr-17,3,v
-12-Apr-17,5,v
-01-Oct-16,5,v
-25-Sep-16,4,v
-30-Sep-16,4,v
-25-Sep-16,5,v
-18-Sep-16,5,v
-04-Sep-16,2,v
-10-Jul-16,3,v
-30-Oct-16,1,v
-05-Oct-16,2,v
-23-Sep-16,5,v
-25-Feb-16,1,v
-05-Nov-15,2,v
-20-Jan-16,4,v
-04-Jan-16,2,v
-09-Jan-16,2,v
-24-Jan-16,4,v
-25-Feb-16,1,v
-06-Feb-16,1,v
-24-Feb-16,1,v
-20-Jan-16,2,v
-09-Aug-15,1,v
-25-Jul-15,3,v
-07-Jul-15,5,v
-21-Jul-15,2,v
-22-Jun-15,4,v
-22-Jul-15,3,v
-27-Jun-15,4,v
-30-Jun-15,4,v
-26-Jun-15,3,v
-05-Jul-15,4,v
-08-Jul-14,3,v
-09-Jul-14,3,v
-01-Jul-14,2,v
-29-Jun-14,2,v
-01-Jul-14,2,v
-06-Jun-14,3,v
-30-May-14,4,v
-19-May-14,3,v
-29-May-14,4,v
-28-Jun-14,1,v
-30-Oct-20,5,vrsk
-19-Oct-20,4,vrsk
-28-Oct-20,2,vrsk
-12-Oct-20,4,vrsk
-05-Oct-20,4,vrsk
-02-Oct-20,5,vrsk
-15-Oct-20,3,vrsk
-15-Oct-20,2,vrsk
-28-Sep-20,4,vrsk
-26-Sep-20,4,vrsk
-20-Aug-20,4,vrsk
-20-Aug-20,4,vrsk
-05-Aug-20,5,vrsk
-17-Aug-20,3,vrsk
-26-Jul-20,4,vrsk
-13-Jul-20,5,vrsk
-19-Jul-20,3,vrsk
-29-Jun-20,4,vrsk
-09-Jun-20,5,vrsk
-22-May-20,3,vrsk
-17-Sep-19,2,vrsk
-30-Aug-19,4,vrsk
-27-Aug-19,4,vrsk
-20-Aug-19,5,vrsk
-12-Aug-19,5,vrsk
-08-Aug-19,2,vrsk
-23-Jul-19,4,vrsk
-22-Jul-19,5,vrsk
-19-Jul-19,5,vrsk
-04-Jul-19,5,vrsk
-11-Jan-19,2,vrsk
-12-Dec-18,5,vrsk
-23-Nov-18,5,vrsk
-14-Nov-18,3,vrsk
-19-Oct-18,5,vrsk
-15-Oct-18,4,vrsk
-29-Oct-18,3,vrsk
-17-Oct-18,3,vrsk
-04-Oct-18,2,vrsk
-02-Oct-18,2,vrsk
-30-Jan-18,3,vrsk
-09-Jan-18,5,vrsk
-16-Jan-18,3,vrsk
-02-Jan-18,2,vrsk
-03-Jan-18,3,vrsk
-28-Dec-17,2,vrsk
-01-Dec-17,5,vrsk
-15-Nov-17,4,vrsk
-09-Nov-17,4,vrsk
-19-Nov-17,2,vrsk
-11-Jul-17,1,vrsk
-13-Jun-17,3,vrsk
-21-May-17,5,vrsk
-10-May-17,4,vrsk
-29-Apr-17,5,vrsk
-26-Apr-17,4,vrsk
-17-Apr-17,4,vrsk
-05-Apr-17,4,vrsk
-10-Apr-17,3,vrsk
-29-Mar-17,4,vrsk
-28-Jun-16,5,vrsk
-13-Jul-16,3,vrsk
-21-Jun-16,4,vrsk
-10-Jun-16,2,vrsk
-25-May-16,4,vrsk
-20-May-16,2,vrsk
-11-May-16,5,vrsk
-09-Apr-16,3,vrsk
-28-Apr-16,2,vrsk
-13-Apr-16,2,vrsk
-03-Dec-15,3,vrsk
-17-Nov-15,4,vrsk
-05-Nov-15,4,vrsk
-11-Nov-15,2,vrsk
-04-Nov-15,3,vrsk
-13-Oct-15,3,vrsk
-23-Oct-15,3,vrsk
-12-Oct-15,4,vrsk
-14-Nov-15,1,vrsk
-24-Oct-15,3,vrsk
-06-Jan-15,5,vrsk
-14-Jan-15,3,vrsk
-05-Feb-15,1,vrsk
-05-Nov-14,3,vrsk
-28-Aug-14,3,vrsk
-28-Jul-14,2,vrsk
-10-Jul-14,3,vrsk
-08-Jun-14,4,vrsk
-06-May-14,3,vrsk
-04-May-14,4,vrsk
-26-Oct-20,5,wcn
-02-Oct-20,5,wcn
-21-Sep-20,5,wcn
-23-Oct-20,1,wcn
-10-Mar-20,4,wcn
-03-Feb-20,2,wcn
-21-Dec-19,4,wcn
-04-Nov-19,4,wcn
-17-Oct-19,3,wcn
-06-Sep-19,4,wcn
-25-Jul-17,3,wcn
-20-Oct-20,5,wcn
-24-Sep-20,5,wcn
-24-Sep-20,3,wcn
-31-Aug-20,5,wcn
-28-Aug-20,5,wcn
-06-Oct-20,1,wcn
-02-Oct-20,1,wcn
-26-Aug-20,5,wcn
-25-Aug-20,5,wcn
-10-Aug-20,5,wcn
-10-Aug-20,5,wcn
-10-Aug-20,5,wcn
-10-Aug-20,5,wcn
-10-Aug-20,5,wcn
-10-Aug-20,5,wcn
-24-Aug-20,4,wcn
-07-Aug-20,5,wcn
-22-Aug-20,4,wcn
-07-Aug-20,5,wcn
-07-Aug-20,3,wcn
-06-Aug-20,4,wcn
-17-Jul-20,5,wcn
-20-Aug-20,1,wcn
-01-Jul-20,5,wcn
-21-Jun-20,4,wcn
-21-Jun-20,4,wcn
-27-May-20,2,wcn
-26-May-20,3,wcn
-23-Apr-20,5,wcn
-06-Dec-19,5,wcn
-09-Dec-19,5,wcn
-06-Dec-19,5,wcn
-06-Dec-19,5,wcn
-07-Jan-20,1,wcn
-17-Dec-19,3,wcn
-21-Dec-19,1,wcn
-10-Dec-19,1,wcn
-30-Oct-19,3,wcn
-11-Oct-19,5,wcn
-03-Jan-19,2,wcn
-25-Dec-18,3,wcn
-07-Dec-18,3,wcn
-27-Dec-18,1,wcn
-04-Dec-18,3,wcn
-19-Oct-18,5,wcn
-13-Nov-18,1,wcn
-14-Sep-18,5,wcn
-10-Oct-18,1,wcn
-15-Aug-18,5,wcn
-09-Apr-18,1,wcn
-10-Mar-18,4,wcn
-25-Feb-18,4,wcn
-22-Feb-18,3,wcn
-01-Mar-18,1,wcn
-03-Feb-18,1,wcn
-13-Dec-17,2,wcn
-11-Nov-17,5,wcn
-19-Dec-17,1,wcn
-13-Nov-17,3,wcn
-13-Apr-17,2,wcn
-18-Mar-17,4,wcn
-26-Mar-17,1,wcn
-24-Feb-17,4,wcn
-12-Mar-17,1,wcn
-05-Feb-17,4,wcn
-11-Jan-17,5,wcn
-17-Jan-17,4,wcn
-11-Jan-17,3,wcn
-09-Feb-17,1,wcn
-17-Aug-16,3,wcn
-05-Aug-16,2,wcn
-13-Jul-16,3,wcn
-24-Jun-16,5,wcn
-29-Jun-16,2,wcn
-16-Jun-16,5,wcn
-05-Jul-16,1,wcn
-15-Jun-16,4,wcn
-20-May-16,3,wcn
-20-May-16,1,wcn
-14-Jul-15,3,wcn
-12-Jul-15,4,wcn
-31-Jul-15,1,wcn
-06-Jul-15,3,wcn
-05-Jul-15,3,wcn
-26-Jun-15,2,wcn
-10-Jun-15,4,wcn
-11-Jun-15,1,wcn
-20-May-15,2,wcn
-10-May-15,4,wcn
-12-May-20,5,zts
-16-Dec-18,3,zts
-05-Apr-18,3,zts
-22-Dec-17,4,zts
-11-Nov-17,1,zts
-26-Oct-15,4,zts
-07-Aug-15,3,zts
-08-Mar-14,2,zts
-11-Nov-20,5,zts
-03-Nov-20,5,zts
-13-May-20,5,zts
-08-May-20,5,zts
-30-Apr-20,5,zts
-23-May-20,1,zts
-10-Apr-20,5,zts
-21-May-20,1,zts
-05-Apr-20,5,zts
-05-Apr-20,1,zts
-26-Feb-20,4,zts
-25-Feb-20,4,zts
-06-Feb-19,2,zts
-22-Jan-19,4,zts
-03-Jan-19,5,zts
-26-Dec-18,4,zts
-21-Dec-18,4,zts
-24-Jan-19,1,zts
-18-Dec-18,4,zts
-06-Dec-18,5,zts
-12-Dec-18,3,zts
-21-Nov-18,4,zts
-04-Dec-17,3,zts
-03-Dec-17,3,zts
-18-Nov-17,2,zts
-06-Dec-17,1,zts
-15-Nov-17,2,zts
-02-Nov-17,2,zts
-12-Oct-17,5,zts
-24-Oct-17,2,zts
-14-Oct-17,2,zts
-03-Oct-17,4,zts
-08-Jan-17,1,zts
-13-Dec-16,3,zts
-02-Nov-16,4,zts
-02-Nov-16,3,zts
-21-Oct-16,3,zts
-04-Oct-16,5,zts
-15-Oct-16,3,zts
-27-Oct-16,1,zts
-30-Sep-16,2,zts
-22-Sep-16,2,zts
-28-Jan-16,5,zts
-05-Feb-16,2,zts
-03-Feb-16,2,zts
-03-Feb-16,3,zts
-03-Feb-16,3,zts
-14-Jan-16,4,zts
-15-Jan-16,5,zts
-25-Jan-16,3,zts
-10-Jan-16,4,zts
-21-Jan-16,3,zts
-12-Aug-15,4,zts
-18-Aug-15,3,zts
-17-Aug-15,2,zts
-18-Aug-15,2,zts
-31-Jul-15,5,zts
-07-Aug-15,3,zts
-13-Aug-15,3,zts
-11-Aug-15,2,zts
-07-Aug-15,3,zts
-09-Jul-15,4,zts
-24-Oct-14,4,zts
-29-Sep-14,3,zts
-13-Sep-14,4,zts
-14-Sep-14,2,zts
-27-Aug-14,5,zts
-03-Aug-14,5,zts
-12-Aug-14,3,zts
-31-Jul-14,3,zts
-16-Jul-14,2,zts
-23-Jun-14,3,zts
-01-Jan-11,3,zts
-11-May-10,4,zts
-16-Nov-09,4,zts
-13-Aug-09,4,zts
-26-Mar-09,3,zts
-07-Sep-08,3,zts
+Date	Rating	Ticker
+21-Jul-20	5	bdx
+28-Apr-20	2	bdx
+06-Oct-19	4	bdx
+20-Sep-18	1	bdx
+26-Feb-18	3	bdx
+17-Jul-17	5	bdx
+28-Aug-16	1	bdx
+27-Feb-15	1	bdx
+28-Nov-14	3	bdx
+28-Oct-14	1	bdx
+13-Jan-20	5	bdx
+13-Jan-20	5	bdx
+10-Jan-20	5	bdx
+10-Jan-20	4	bdx
+23-Jan-20	3	bdx
+01-Jan-20	5	bdx
+04-Feb-20	1	bdx
+18-Jan-20	3	bdx
+06-Feb-20	1	bdx
+30-Dec-19	5	bdx
+27-Jun-18	5	bdx
+26-Jun-18	4	bdx
+27-Jun-18	3	bdx
+29-Jun-18	3	bdx
+17-Jul-18	1	bdx
+15-Jun-18	2	bdx
+08-Jun-18	4	bdx
+04-Jun-18	4	bdx
+19-Jun-18	3	bdx
+17-Jun-18	3	bdx
+06-Mar-17	1	bdx
+17-Jan-17	5	bdx
+30-Jan-17	4	bdx
+31-Jan-17	4	bdx
+02-Feb-17	3	bdx
+27-Jan-17	4	bdx
+25-Jan-17	4	bdx
+25-Feb-17	1	bdx
+31-Jan-17	2	bdx
+18-Jan-17	4	bdx
+01-Feb-16	1	bdx
+06-Jan-16	2	bdx
+29-Dec-15	2	bdx
+22-Jan-16	1	bdx
+01-Jan-16	3	bdx
+15-Dec-15	4	bdx
+15-Dec-15	5	bdx
+14-Dec-15	4	bdx
+26-Dec-15	3	bdx
+09-Dec-15	4	bdx
+04-Feb-14	3	bdx
+21-Feb-14	1	bdx
+16-Jan-14	4	bdx
+06-Feb-14	1	bdx
+13-Jan-14	3	bdx
+28-Dec-13	4	bdx
+26-Dec-13	4	bdx
+16-Dec-13	4	bdx
+15-Dec-13	3	bdx
+24-Nov-13	5	bdx
+21-Oct-20	5	brk
+23-Oct-20	4	brk
+05-Oct-20	5	brk
+11-Oct-20	4	brk
+10-Oct-20	3	brk
+22-Sep-20	5	brk
+05-Oct-20	4	brk
+16-Sep-20	5	brk
+16-Sep-20	5	brk
+25-Sep-20	4	brk
+10-Feb-20	5	brk
+20-Feb-20	3	brk
+10-Mar-20	1	brk
+31-Jan-20	5	brk
+30-Jan-20	5	brk
+12-Jan-20	5	brk
+29-Jan-20	4	brk
+27-Jan-20	3	brk
+04-Feb-20	1	brk
+12-Jan-20	4	brk
+21-Feb-19	5	brk
+06-Mar-19	4	brk
+04-Mar-19	3	brk
+08-Feb-19	4	brk
+22-Jan-19	5	brk
+22-Jan-19	5	brk
+25-Feb-19	1	brk
+15-Jan-19	5	brk
+08-Jan-19	5	brk
+23-Dec-18	5	brk
+07-May-18	1	brk
+29-Mar-18	5	brk
+04-May-18	1	brk
+01-May-18	1	brk
+08-Apr-18	3	brk
+16-Mar-18	5	brk
+12-Mar-18	5	brk
+26-Mar-18	3	brk
+10-Feb-18	5	brk
+06-Mar-18	5	brk
+31-Aug-17	5	brk
+12-Sep-17	3	brk
+25-Aug-17	5	brk
+20-Aug-17	5	brk
+15-Aug-17	5	brk
+26-Aug-17	4	brk
+22-Aug-17	4	brk
+21-Aug-17	3	brk
+09-Aug-17	2	brk
+19-Aug-17	3	brk
+02-Mar-17	1	brk
+02-Feb-17	3	brk
+07-Feb-17	1	brk
+26-Jan-17	4	brk
+15-Feb-17	1	brk
+24-Jan-17	3	brk
+17-Jan-17	3	brk
+12-Jan-17	2	brk
+29-Dec-16	5	brk
+04-Jan-17	4	brk
+06-Aug-16	4	brk
+18-Jul-16	5	brk
+26-Jul-16	4	brk
+07-Jul-16	5	brk
+12-Jul-16	4	brk
+07-Jul-16	3	brk
+08-Jun-16	5	brk
+03-Jun-16	5	brk
+14-Jun-16	4	brk
+13-Jun-16	4	brk
+20-Oct-15	4	brk
+20-Oct-15	3	brk
+15-Oct-15	4	brk
+15-Oct-15	4	brk
+14-Oct-15	2	brk
+05-Oct-15	3	brk
+20-Sep-15	5	brk
+08-Sep-15	5	brk
+03-Sep-15	5	brk
+26-Aug-15	5	brk
+27-Jun-14	5	brk
+07-Jul-14	4	brk
+15-May-14	5	brk
+12-May-14	5	brk
+14-May-14	4	brk
+16-Mar-14	2	brk
+01-Aug-13	4	brk
+15-Aug-12	4	brk
+07-Dec-11	5	brk
+19-Dec-11	2	brk
+10-Nov-20	5	cb
+11-Sep-20	4	cb
+24-Jun-20	4	cb
+04-Jun-20	4	cb
+07-Feb-20	3	cb
+07-Jan-20	5	cb
+04-Feb-20	1	cb
+13-Dec-19	3	cb
+26-Nov-19	5	cb
+20-Nov-19	5	cb
+28-Sep-20	3	cb
+27-Sep-20	2	cb
+17-Oct-20	1	cb
+18-Oct-20	1	cb
+09-Sep-20	5	cb
+09-Sep-20	5	cb
+09-Sep-20	5	cb
+09-Sep-20	4	cb
+22-Sep-20	2	cb
+07-Sep-20	4	cb
+02-Mar-20	1	cb
+19-Jan-20	5	cb
+29-Jan-20	2	cb
+16-Jan-20	4	cb
+28-Jan-20	3	cb
+30-Jan-20	3	cb
+23-Jan-20	2	cb
+23-Jan-20	2	cb
+10-Jan-20	5	cb
+02-Jan-20	5	cb
+11-Jul-19	4	cb
+25-Jul-19	2	cb
+07-Jul-19	5	cb
+02-Aug-19	1	cb
+28-Jun-19	4	cb
+18-Jul-19	2	cb
+16-Jul-19	3	cb
+29-Jun-19	4	cb
+28-Jun-19	4	cb
+26-Jun-19	5	cb
+11-Jan-19	5	cb
+27-Jan-19	3	cb
+28-Jan-19	3	cb
+25-Jan-19	3	cb
+14-Feb-19	1	cb
+08-Jan-19	5	cb
+22-Jan-19	2	cb
+23-Jan-19	3	cb
+07-Jan-19	4	cb
+21-Jan-19	3	cb
+31-Jul-18	3	cb
+07-Jul-18	5	cb
+06-Jul-18	5	cb
+07-Aug-18	1	cb
+18-Jul-18	3	cb
+31-May-18	5	cb
+06-Jul-18	2	cb
+25-Jun-18	4	cb
+23-Jun-18	5	cb
+25-Jul-18	1	cb
+13-Dec-17	4	cb
+10-Dec-17	4	cb
+12-Dec-17	5	cb
+24-Dec-17	3	cb
+15-Nov-17	2	cb
+27-Nov-17	4	cb
+05-Jan-18	1	cb
+26-Nov-17	4	cb
+25-Nov-17	4	cb
+29-Nov-17	2	cb
+13-Jul-17	1	cb
+22-Jun-17	2	cb
+15-Jun-17	3	cb
+30-May-17	5	cb
+30-May-17	5	cb
+29-May-17	5	cb
+14-Jun-17	3	cb
+04-May-17	2	cb
+24-May-17	2	cb
+17-May-17	3	cb
+13-Jan-17	3	cb
+03-Feb-17	1	cb
+23-Jan-17	1	cb
+23-Dec-16	3	cb
+22-Dec-16	4	cb
+16-Dec-16	5	cb
+16-Dec-16	4	cb
+13-Dec-16	3	cb
+26-Dec-16	3	cb
+05-Jan-17	1	cb
+02-Jul-16	2	cb
+24-Jul-16	1	cb
+05-Jul-16	1	cb
+20-Jun-16	2	cb
+25-Jun-16	3	cb
+01-Jul-16	3	cb
+16-Jun-16	5	cb
+13-Jun-16	4	cb
+14-Jun-16	4	cb
+27-Jun-16	3	cb
+26-Jul-18	5	cmcsa
+15-Oct-20	3	cmcsa
+30-Mar-18	2	cmcsa
+18-Dec-17	3	cmcsa
+28-Aug-17	5	cmcsa
+02-Nov-16	1	cmcsa
+05-Aug-15	5	cmcsa
+04-Mar-15	5	cmcsa
+12-Nov-20	4	cmcsa
+11-Nov-20	5	cmcsa
+02-Nov-19	1	cmcsa
+27-Sep-19	5	cmcsa
+12-Oct-19	2	cmcsa
+27-Sep-19	4	cmcsa
+09-Oct-19	3	cmcsa
+11-Oct-19	3	cmcsa
+26-Sep-19	5	cmcsa
+26-Sep-19	4	cmcsa
+25-Sep-19	4	cmcsa
+25-Sep-19	5	cmcsa
+21-Oct-18	1	cmcsa
+14-Sep-18	4	cmcsa
+26-Sep-18	3	cmcsa
+28-Sep-18	3	cmcsa
+28-Sep-18	3	cmcsa
+05-Sep-18	4	cmcsa
+25-Sep-18	3	cmcsa
+27-Sep-18	3	cmcsa
+12-Sep-18	5	cmcsa
+07-Sep-18	4	cmcsa
+27-Oct-17	4	cmcsa
+26-Oct-17	5	cmcsa
+26-Oct-17	5	cmcsa
+27-Oct-17	5	cmcsa
+26-Oct-17	4	cmcsa
+26-Oct-17	4	cmcsa
+07-Nov-17	3	cmcsa
+09-Nov-17	3	cmcsa
+09-Nov-17	3	cmcsa
+25-Oct-17	5	cmcsa
+28-Feb-17	3	cmcsa
+13-Feb-17	5	cmcsa
+13-Feb-17	5	cmcsa
+28-Feb-17	2	cmcsa
+13-Feb-17	4	cmcsa
+27-Feb-17	3	cmcsa
+08-Feb-17	5	cmcsa
+12-Feb-17	4	cmcsa
+11-Feb-17	5	cmcsa
+11-Feb-17	5	cmcsa
+18-Jun-16	5	cmcsa
+18-Jun-16	4	cmcsa
+02-Jul-16	3	cmcsa
+01-Jul-16	3	cmcsa
+22-Jul-16	1	cmcsa
+16-Jun-16	4	cmcsa
+16-Jun-16	4	cmcsa
+30-Jun-16	3	cmcsa
+20-Jul-16	1	cmcsa
+08-Jun-16	5	cmcsa
+21-Oct-15	4	cmcsa
+21-Oct-15	4	cmcsa
+20-Oct-15	4	cmcsa
+22-Oct-15	4	cmcsa
+21-Oct-15	5	cmcsa
+21-Oct-15	5	cmcsa
+22-Oct-15	5	cmcsa
+13-Oct-15	4	cmcsa
+21-Oct-15	4	cmcsa
+31-Oct-15	3	cmcsa
+05-Apr-15	1	cmcsa
+12-Mar-15	2	cmcsa
+03-Apr-15	1	cmcsa
+03-Apr-15	1	cmcsa
+27-Feb-15	4	cmcsa
+13-Mar-15	3	cmcsa
+10-Mar-15	3	cmcsa
+25-Feb-15	5	cmcsa
+11-Mar-15	2	cmcsa
+12-Mar-15	2	cmcsa
+05-Feb-14	3	cmcsa
+01-Mar-14	1	cmcsa
+28-Jan-14	4	cmcsa
+27-Jan-14	4	cmcsa
+02-Feb-14	3	cmcsa
+06-Feb-14	3	cmcsa
+17-Jan-14	4	cmcsa
+25-Jan-14	4	cmcsa
+25-Jan-14	4	cmcsa
+25-Jan-14	4	cmcsa
+04-Oct-11	4	cmcsa
+18-Oct-11	3	cmcsa
+12-Nov-11	1	cmcsa
+06-Oct-11	4	cmcsa
+23-Sep-11	4	cmcsa
+09-Oct-11	2	cmcsa
+27-Oct-11	1	cmcsa
+04-Oct-11	2	cmcsa
+03-Oct-11	3	cmcsa
+02-Oct-11	2	cmcsa
+06-Nov-20	5	cost
+02-Nov-20	5	cost
+29-Oct-20	5	cost
+11-Nov-20	4	cost
+11-Nov-20	4	cost
+27-Oct-20	5	cost
+27-Oct-20	5	cost
+26-Oct-20	5	cost
+25-Oct-20	5	cost
+23-Oct-20	5	cost
+02-Sep-15	5	cost
+11-Sep-15	4	cost
+02-Sep-15	4	cost
+01-Sep-15	3	cost
+03-Sep-15	3	cost
+18-Aug-15	5	cost
+20-Aug-15	3	cost
+18-Aug-15	3	cost
+27-Aug-15	1	cost
+04-Aug-15	4	cost
+14-Jun-20	4	cost
+30-May-20	5	cost
+04-Jul-20	1	cost
+29-May-20	5	cost
+10-Jun-20	4	cost
+08-Jun-20	3	cost
+28-May-20	5	cost
+10-Jun-20	4	cost
+22-May-20	5	cost
+22-May-20	5	cost
+18-May-19	1	cost
+26-Apr-19	3	cost
+13-Apr-19	5	cost
+12-Apr-19	5	cost
+26-Apr-19	2	cost
+10-Apr-19	5	cost
+24-Apr-19	4	cost
+24-Apr-19	4	cost
+24-Apr-19	2	cost
+08-Apr-19	5	cost
+05-May-18	4	cost
+05-May-18	4	cost
+20-Apr-18	5	cost
+20-Apr-18	5	cost
+19-Apr-18	5	cost
+20-Apr-18	5	cost
+02-May-18	4	cost
+26-Apr-18	4	cost
+01-May-18	4	cost
+27-Apr-18	4	cost
+30-Jun-17	5	cost
+30-Jun-17	5	cost
+06-Jul-17	4	cost
+14-Jul-17	3	cost
+29-Jun-17	5	cost
+10-Jul-17	4	cost
+13-Jul-17	3	cost
+12-Jul-17	4	cost
+31-Jul-17	1	cost
+26-Jun-17	5	cost
+15-Sep-16	4	cost
+15-Sep-16	3	cost
+16-Sep-16	3	cost
+31-Aug-16	5	cost
+14-Sep-16	4	cost
+11-Sep-16	4	cost
+27-Aug-16	5	cost
+12-Sep-16	3	cost
+14-Sep-16	3	cost
+31-Aug-16	5	cost
+23-Nov-15	3	cost
+18-Nov-15	4	cost
+07-Nov-15	5	cost
+20-Nov-15	4	cost
+18-Nov-15	3	cost
+04-Nov-15	5	cost
+04-Nov-15	5	cost
+04-Nov-15	5	cost
+03-Nov-15	5	cost
+29-Oct-15	5	cost
+27-Jan-15	3	cost
+26-Jan-15	4	cost
+20-Jan-15	4	cost
+11-Feb-15	1	cost
+07-Jan-15	5	cost
+07-Jan-15	5	cost
+25-Dec-14	4	cost
+12-Jan-15	4	cost
+12-Jan-15	5	cost
+12-Jan-15	4	cost
+29-Apr-13	5	cost
+02-May-13	5	cost
+02-May-13	5	cost
+28-Apr-13	5	cost
+12-May-13	4	cost
+12-May-13	4	cost
+09-May-13	4	cost
+04-May-13	5	cost
+10-May-13	3	cost
+09-May-13	3	cost
+09-Nov-20	5	dhr
+22-Sep-20	4	dhr
+06-Aug-20	5	dhr
+22-Jan-20	5	dhr
+13-Dec-19	4	dhr
+24-Oct-19	1	dhr
+12-Mar-19	3	dhr
+10-May-18	3	dhr
+14-Dec-17	3	dhr
+24-Aug-15	5	dhr
+15-Aug-20	2	dhr
+21-Jul-20	5	dhr
+24-Jul-20	1	dhr
+16-Jun-20	4	dhr
+28-May-20	4	dhr
+26-Mar-20	4	dhr
+13-Feb-20	5	dhr
+14-Feb-20	3	dhr
+01-Feb-20	5	dhr
+01-Mar-20	1	dhr
+22-Apr-19	3	dhr
+07-Mar-19	5	dhr
+10-Apr-19	3	dhr
+10-Apr-19	3	dhr
+23-Mar-19	4	dhr
+03-Apr-19	3	dhr
+11-Mar-19	4	dhr
+18-Mar-19	3	dhr
+05-Feb-19	5	dhr
+24-Jan-19	5	dhr
+18-Jan-18	4	dhr
+16-Feb-18	1	dhr
+12-Jan-18	5	dhr
+28-Dec-17	4	dhr
+03-Jan-18	1	dhr
+04-Dec-17	5	dhr
+01-Dec-17	5	dhr
+05-Dec-17	3	dhr
+26-Oct-17	4	dhr
+21-Oct-17	5	dhr
+22-Jan-17	4	dhr
+16-Jan-17	5	dhr
+10-Jan-17	3	dhr
+29-Jan-17	1	dhr
+14-Dec-16	2	dhr
+14-Nov-16	4	dhr
+07-Dec-16	1	dhr
+24-Oct-16	2	dhr
+12-Oct-16	4	dhr
+25-Sep-16	5	dhr
+07-Dec-15	3	dhr
+11-Nov-15	4	dhr
+22-Oct-15	4	dhr
+19-Oct-15	2	dhr
+31-Oct-15	3	dhr
+15-Oct-15	4	dhr
+13-Oct-15	4	dhr
+06-Oct-15	4	dhr
+04-Oct-15	5	dhr
+05-Sep-15	5	dhr
+29-Jan-15	2	dhr
+04-Jan-15	5	dhr
+14-Jan-15	3	dhr
+12-Jan-15	3	dhr
+08-Jan-15	3	dhr
+24-Dec-14	4	dhr
+11-Dec-14	4	dhr
+04-Dec-14	4	dhr
+26-Nov-14	4	dhr
+07-Dec-14	3	dhr
+26-Mar-14	3	dhr
+19-Mar-14	3	dhr
+12-Mar-14	3	dhr
+15-Feb-14	3	dhr
+19-Feb-14	1	dhr
+25-Feb-14	1	dhr
+12-Jan-14	1	dhr
+30-Dec-13	3	dhr
+26-Oct-13	5	dhr
+18-Nov-13	3	dhr
+04-Oct-12	2	dhr
+11-Oct-12	1	dhr
+14-Sep-12	3	dhr
+17-Aug-12	2	dhr
+31-Jul-12	4	dhr
+26-Jun-12	4	dhr
+05-Jun-12	5	dhr
+25-Apr-12	3	dhr
+08-Apr-12	2	dhr
+21-Apr-12	1	dhr
+04-Oct-10	4	dhr
+03-Oct-10	5	dhr
+15-Sep-10	1	dhr
+09-Aug-10	2	dhr
+04-Aug-10	2	dhr
+14-Jun-10	3	dhr
+02-May-10	4	dhr
+06-Jan-10	1	dhr
+06-Jan-10	1	dhr
+28-Nov-09	1	dhr
+16-Oct-20	5	hd
+12-Nov-20	5	hd
+12-Nov-20	5	hd
+10-Nov-20	5	hd
+10-Nov-20	5	hd
+04-Nov-20	4	hd
+03-Nov-20	4	hd
+30-Oct-20	4	hd
+29-Oct-20	4	hd
+12-Nov-20	3	hd
+07-Jul-20	4	hd
+21-Jul-20	3	hd
+06-Jul-20	5	hd
+11-Aug-20	1	hd
+11-Aug-20	1	hd
+21-Jul-20	2	hd
+06-Jul-20	4	hd
+10-Aug-20	1	hd
+01-Jul-20	5	hd
+05-Jul-20	4	hd
+23-Apr-19	5	hd
+23-Apr-19	5	hd
+23-Apr-19	5	hd
+30-May-19	1	hd
+19-Apr-19	5	hd
+23-Apr-19	4	hd
+23-Apr-19	4	hd
+22-Apr-19	5	hd
+22-Apr-19	5	hd
+22-Apr-19	5	hd
+10-Apr-18	5	hd
+17-Apr-18	4	hd
+17-Apr-18	4	hd
+17-Apr-18	4	hd
+01-May-18	3	hd
+01-May-18	3	hd
+16-Apr-18	5	hd
+16-Apr-18	5	hd
+16-Apr-18	5	hd
+16-Apr-18	5	hd
+06-Jul-17	3	hd
+21-Jun-17	5	hd
+21-Jun-17	5	hd
+05-Jul-17	2	hd
+17-Jun-17	5	hd
+21-Jun-17	4	hd
+21-Jun-17	4	hd
+22-Jun-17	4	hd
+03-Jul-17	3	hd
+05-Jul-17	3	hd
+27-Sep-16	5	hd
+11-Oct-16	2	hd
+11-Oct-16	2	hd
+11-Oct-16	2	hd
+02-Nov-16	1	hd
+12-Oct-16	2	hd
+23-Sep-16	5	hd
+27-Sep-16	4	hd
+27-Sep-16	4	hd
+27-Sep-16	4	hd
+07-Feb-16	2	hd
+19-Jan-16	5	hd
+23-Jan-16	4	hd
+23-Jan-16	4	hd
+02-Feb-16	3	hd
+04-Feb-16	2	hd
+04-Feb-16	3	hd
+05-Feb-16	3	hd
+06-Feb-16	3	hd
+26-Feb-16	1	hd
+16-Jun-15	3	hd
+17-Jun-15	3	hd
+17-Jun-15	3	hd
+01-Jun-15	5	hd
+16-Jun-15	2	hd
+01-Jun-15	4	hd
+01-Jun-15	4	hd
+15-Jun-15	3	hd
+15-Jun-15	3	hd
+15-Jun-15	3	hd
+04-Jun-14	5	hd
+04-Jun-14	5	hd
+05-Jun-14	5	hd
+18-Jun-14	2	hd
+15-Jun-14	2	hd
+04-Jun-14	4	hd
+16-Jun-14	2	hd
+16-Jun-14	2	hd
+18-Jun-14	3	hd
+08-Jul-14	1	hd
+03-Aug-12	3	hd
+03-Aug-12	3	hd
+19-Jul-12	4	hd
+22-Aug-12	1	hd
+18-Jul-12	5	hd
+23-Aug-12	1	hd
+23-Aug-12	1	hd
+02-Aug-12	2	hd
+18-Jul-12	4	hd
+01-Aug-12	3	hd
+17-Sep-20	4	hei
+29-Jun-20	3	hei
+23-Apr-20	4	hei
+17-Mar-20	3	hei
+05-Mar-20	3	hei
+26-Dec-19	5	hei
+29-Dec-19	2	hei
+12-Nov-19	3	hei
+29-Jul-19	3	hei
+13-Jun-19	1	hei
+17-Sep-20	4	hei
+29-Jun-20	3	hei
+23-Apr-20	4	hei
+17-Mar-20	3	hei
+05-Mar-20	3	hei
+26-Dec-19	5	hei
+29-Dec-19	2	hei
+12-Nov-19	3	hei
+29-Jul-19	3	hei
+13-Jun-19	1	hei
+17-Sep-20	4	hei
+29-Jun-20	3	hei
+23-Apr-20	4	hei
+17-Mar-20	3	hei
+05-Mar-20	3	hei
+26-Dec-19	5	hei
+29-Dec-19	2	hei
+12-Nov-19	3	hei
+29-Jul-19	3	hei
+13-Jun-19	1	hei
+17-Sep-20	4	hei
+29-Jun-20	3	hei
+23-Apr-20	4	hei
+17-Mar-20	3	hei
+05-Mar-20	3	hei
+26-Dec-19	5	hei
+29-Dec-19	2	hei
+12-Nov-19	3	hei
+29-Jul-19	3	hei
+13-Jun-19	1	hei
+27-Mar-19	4	hei
+10-Oct-18	5	hei
+08-Oct-18	3	hei
+20-Sep-18	5	hei
+19-Jun-18	5	hei
+28-Jun-18	1	hei
+29-Mar-18	5	hei
+09-Dec-17	5	hei
+13-Nov-17	2	hei
+09-Jun-17	5	hei
+27-Mar-19	4	hei
+10-Oct-18	5	hei
+08-Oct-18	3	hei
+20-Sep-18	5	hei
+19-Jun-18	5	hei
+28-Jun-18	1	hei
+29-Mar-18	5	hei
+09-Dec-17	5	hei
+13-Nov-17	2	hei
+09-Jun-17	5	hei
+01-Jul-17	1	hei
+03-May-17	5	hei
+02-May-17	5	hei
+29-Apr-17	3	hei
+28-Mar-17	5	hei
+03-Jan-17	3	hei
+14-Nov-16	2	hei
+29-Oct-16	3	hei
+04-Nov-16	1	hei
+27-Apr-16	4	hei
+01-Jul-17	1	hei
+03-May-17	5	hei
+02-May-17	5	hei
+29-Apr-17	3	hei
+28-Mar-17	5	hei
+03-Jan-17	3	hei
+14-Nov-16	2	hei
+29-Oct-16	3	hei
+04-Nov-16	1	hei
+27-Apr-16	4	hei
+18-May-16	1	hei
+14-Jan-16	5	hei
+29-Oct-15	4	hei
+20-Oct-15	3	hei
+29-Aug-15	2	hei
+08-Jun-15	4	hei
+12-Jun-15	2	hei
+23-Apr-15	2	hei
+21-Apr-15	2	hei
+09-Oct-14	2	hei
+18-May-16	1	hei
+14-Jan-16	5	hei
+29-Oct-15	4	hei
+20-Oct-15	3	hei
+29-Aug-15	2	hei
+08-Jun-15	4	hei
+12-Jun-15	2	hei
+23-Apr-15	2	hei
+21-Apr-15	2	hei
+09-Oct-14	2	hei
+19-Aug-19	5	idex
+26-Nov-14	4	idex
+09-Nov-20	5	idex
+26-Oct-20	5	idex
+23-Oct-20	5	idex
+20-Oct-20	5	idex
+07-Oct-20	5	idex
+19-Oct-20	4	idex
+18-Oct-20	2	idex
+01-Oct-20	5	idex
+19-Aug-19	5	idex
+26-Nov-14	4	idex
+09-Nov-20	5	idex
+26-Oct-20	5	idex
+23-Oct-20	5	idex
+20-Oct-20	5	idex
+07-Oct-20	5	idex
+19-Oct-20	4	idex
+18-Oct-20	2	idex
+01-Oct-20	5	idex
+16-Feb-20	4	idex
+14-Feb-20	1	idex
+14-Jan-20	2	idex
+25-Nov-19	5	idex
+24-Nov-19	4	idex
+24-Nov-19	1	idex
+21-Oct-19	4	idex
+11-Oct-19	4	idex
+12-Oct-19	4	idex
+30-Sep-19	4	idex
+05-Sep-19	5	idex
+08-Aug-19	5	idex
+27-Aug-19	5	idex
+26-Aug-19	5	idex
+19-Aug-19	5	idex
+22-Aug-19	5	idex
+22-Aug-19	5	idex
+19-Aug-19	5	idex
+19-Aug-19	5	idex
+19-Aug-19	5	idex
+27-Jun-19	4	idex
+26-Apr-19	4	idex
+11-Apr-19	1	idex
+11-Mar-19	3	idex
+20-Feb-19	5	idex
+19-Mar-19	1	idex
+15-Feb-19	2	idex
+14-Feb-19	1	idex
+26-Jan-19	1	idex
+16-Jan-19	1	idex
+12-Nov-18	5	idex
+28-Aug-18	3	idex
+02-Aug-18	2	idex
+13-Jul-18	1	idex
+29-May-18	1	idex
+18-Dec-17	5	idex
+21-Jan-18	1	idex
+29-Dec-17	2	idex
+09-Oct-17	3	idex
+04-Sep-17	2	idex
+17-Feb-17	3	idex
+12-Feb-17	2	idex
+06-Feb-17	2	idex
+28-Jan-17	2	idex
+27-Jan-17	2	idex
+03-Dec-16	4	idex
+05-Oct-16	5	idex
+08-Oct-16	5	idex
+06-Nov-16	1	idex
+23-Sep-16	5	idex
+28-Sep-16	4	idex
+20-Sep-16	4	idex
+04-Aug-16	5	idex
+09-Aug-16	4	idex
+09-Aug-16	3	idex
+22-Aug-16	1	idex
+29-Jun-16	3	idex
+14-Jun-16	4	idex
+15-May-16	2	idex
+12-Apr-16	4	idex
+25-Aug-15	4	idex
+07-Aug-15	4	idex
+23-Jul-15	5	idex
+28-Jul-15	3	idex
+26-May-15	2	idex
+22-May-15	4	idex
+07-May-15	1	idex
+26-Mar-15	5	idex
+09-Apr-15	4	idex
+31-Mar-15	2	idex
+14-Aug-13	3	idex
+05-Aug-13	3	idex
+14-Jul-13	3	idex
+19-May-13	1	idex
+28-Jan-13	3	idex
+31-Dec-12	1	idex
+02-Sep-12	4	idex
+05-Jul-12	3	idex
+29-Jun-12	2	idex
+22-Apr-12	4	idex
+12-Nov-20	5	jnj
+04-Nov-20	5	jnj
+02-Nov-20	5	jnj
+20-Oct-20	5	jnj
+15-Oct-20	5	jnj
+20-Oct-20	4	jnj
+16-Oct-20	4	jnj
+28-Sep-20	5	jnj
+30-Sep-20	4	jnj
+15-Sep-20	5	jnj
+19-Apr-20	3	jnj
+17-Apr-20	4	jnj
+17-Apr-20	3	jnj
+01-Apr-20	5	jnj
+01-Apr-20	5	jnj
+15-Apr-20	4	jnj
+15-Apr-20	3	jnj
+31-Mar-20	5	jnj
+06-May-20	1	jnj
+30-Mar-20	5	jnj
+13-Feb-19	5	jnj
+13-Feb-19	5	jnj
+27-Feb-19	4	jnj
+12-Feb-19	5	jnj
+12-Feb-19	5	jnj
+26-Feb-19	4	jnj
+26-Feb-19	4	jnj
+24-Feb-19	2	jnj
+24-Feb-19	4	jnj
+16-Mar-19	1	jnj
+03-Dec-17	5	jnj
+17-Dec-17	4	jnj
+28-Nov-17	5	jnj
+01-Dec-17	5	jnj
+01-Dec-17	5	jnj
+29-Nov-17	5	jnj
+29-Nov-17	5	jnj
+13-Dec-17	4	jnj
+11-Dec-17	4	jnj
+10-Dec-17	3	jnj
+27-Oct-16	5	jnj
+27-Oct-16	5	jnj
+10-Nov-16	4	jnj
+26-Oct-16	5	jnj
+07-Nov-16	4	jnj
+07-Nov-16	4	jnj
+23-Oct-16	5	jnj
+03-Nov-16	4	jnj
+01-Nov-16	4	jnj
+03-Nov-16	4	jnj
+04-Oct-15	2	jnj
+11-Sep-15	5	jnj
+28-Sep-15	4	jnj
+02-Oct-15	4	jnj
+30-Sep-15	2	jnj
+01-Oct-15	4	jnj
+16-Sep-15	5	jnj
+30-Sep-15	4	jnj
+30-Sep-15	4	jnj
+22-Oct-15	1	jnj
+09-Feb-14	3	jnj
+05-Feb-14	4	jnj
+07-Feb-14	4	jnj
+07-Feb-14	4	jnj
+06-Feb-14	4	jnj
+22-Jan-14	5	jnj
+04-Feb-14	4	jnj
+20-Jan-14	5	jnj
+17-Feb-14	1	jnj
+01-Feb-14	2	jnj
+04-Aug-10	4	jnj
+30-Jul-10	3	jnj
+25-Jul-10	4	jnj
+23-Jul-10	4	jnj
+23-Jul-10	2	jnj
+07-Jul-10	5	jnj
+06-Jul-10	5	jnj
+11-Aug-10	1	jnj
+20-Jul-10	3	jnj
+16-Jul-10	4	jnj
+30-Mar-20	5	ko
+10-Nov-20	5	ko
+07-Nov-20	4	ko
+09-Nov-20	3	ko
+17-Oct-20	4	ko
+06-Oct-20	4	ko
+20-Oct-20	3	ko
+15-Oct-20	3	ko
+15-Oct-20	3	ko
+29-Sep-20	4	ko
+18-Feb-20	1	ko
+14-Jan-20	5	ko
+24-Jan-20	3	ko
+10-Jan-20	5	ko
+15-Feb-20	1	ko
+09-Jan-20	4	ko
+09-Jan-20	4	ko
+21-Jan-20	3	ko
+20-Jan-20	3	ko
+20-Jan-20	3	ko
+19-Sep-18	1	ko
+29-Aug-18	2	ko
+28-Aug-18	3	ko
+12-Aug-18	4	ko
+10-Aug-18	5	ko
+23-Aug-18	3	ko
+08-Aug-18	5	ko
+22-Aug-18	2	ko
+24-Aug-18	2	ko
+20-Aug-18	2	ko
+03-Sep-17	3	ko
+18-Aug-17	4	ko
+17-Aug-17	4	ko
+31-Aug-17	3	ko
+01-Sep-17	2	ko
+30-Aug-17	3	ko
+15-Aug-17	4	ko
+28-Aug-17	2	ko
+09-Aug-17	5	ko
+27-Aug-17	3	ko
+29-Oct-16	3	ko
+14-Oct-16	4	ko
+15-Oct-16	4	ko
+27-Oct-16	2	ko
+24-Oct-16	3	ko
+10-Oct-16	4	ko
+24-Oct-16	3	ko
+09-Oct-16	4	ko
+08-Oct-16	5	ko
+08-Oct-16	5	ko
+24-Dec-15	2	ko
+09-Dec-15	4	ko
+08-Dec-15	5	ko
+08-Dec-15	5	ko
+09-Dec-15	5	ko
+21-Dec-15	2	ko
+21-Dec-15	3	ko
+20-Dec-15	2	ko
+17-Dec-15	3	ko
+19-Dec-15	3	ko
+27-Mar-15	4	ko
+27-Mar-15	4	ko
+08-Apr-15	3	ko
+25-Mar-15	5	ko
+25-Mar-15	4	ko
+24-Mar-15	5	ko
+24-Mar-15	4	ko
+20-Mar-15	4	ko
+22-Mar-15	5	ko
+05-Apr-15	2	ko
+11-Sep-13	3	ko
+29-Aug-13	4	ko
+28-Aug-13	5	ko
+28-Aug-13	4	ko
+25-Aug-13	4	ko
+08-Sep-13	3	ko
+26-Sep-13	1	ko
+02-Sep-13	3	ko
+05-Sep-13	3	ko
+30-Aug-13	3	ko
+23-Jun-10	3	ko
+06-Jun-10	4	ko
+20-Jun-10	2	ko
+30-May-10	4	ko
+10-Jun-10	3	ko
+10-Jun-10	2	ko
+06-Jun-10	3	ko
+02-Jun-10	2	ko
+18-May-10	4	ko
+16-Jun-10	1	ko
+05-Jul-19	5	lin
+31-Jul-20	4	lin
+02-Jul-20	4	lin
+01-Jul-20	5	lin
+22-Jun-20	4	lin
+30-Mar-20	4	lin
+24-Feb-20	3	lin
+21-Aug-19	4	lin
+10-Mar-18	2	lin
+14-Feb-18	5	lin
+23-Jun-20	5	lin
+08-Jul-20	2	lin
+19-Jun-20	5	lin
+16-Jun-20	5	lin
+15-Jun-20	4	lin
+28-Jun-20	2	lin
+11-Jun-20	5	lin
+23-Jun-20	3	lin
+25-Jun-20	3	lin
+25-Jun-20	3	lin
+22-May-19	5	lin
+22-May-19	5	lin
+17-May-19	5	lin
+22-May-19	4	lin
+14-May-19	5	lin
+11-May-19	4	lin
+07-May-19	4	lin
+15-May-19	3	lin
+13-May-19	3	lin
+23-Apr-19	4	lin
+17-Jun-18	1	lin
+18-Jun-18	1	lin
+23-May-18	2	lin
+06-May-18	5	lin
+30-Apr-18	4	lin
+29-Apr-18	4	lin
+11-May-18	3	lin
+02-May-18	3	lin
+24-Apr-18	2	lin
+11-Apr-18	4	lin
+12-Sep-17	3	lin
+10-Sep-17	2	lin
+29-Sep-17	1	lin
+30-Aug-17	3	lin
+24-Sep-17	1	lin
+27-Aug-17	3	lin
+22-Aug-17	3	lin
+12-Aug-17	4	lin
+22-Aug-17	3	lin
+13-Sep-17	1	lin
+22-Feb-17	1	lin
+18-Jan-17	4	lin
+30-Jan-17	2	lin
+16-Jan-17	4	lin
+13-Jan-17	4	lin
+14-Feb-17	1	lin
+08-Jan-17	4	lin
+18-Jan-17	3	lin
+03-Jan-17	4	lin
+14-Jan-17	3	lin
+21-Feb-16	2	lin
+09-Mar-16	1	lin
+10-Mar-16	1	lin
+13-Feb-16	3	lin
+14-Feb-16	3	lin
+27-Jan-16	4	lin
+07-Feb-16	2	lin
+11-Feb-16	2	lin
+01-Mar-16	1	lin
+21-Jan-16	4	lin
+26-May-15	2	lin
+04-May-15	3	lin
+01-May-15	3	lin
+29-Apr-15	2	lin
+28-Apr-15	3	lin
+18-May-15	1	lin
+14-Mar-15	5	lin
+24-Mar-15	3	lin
+12-Apr-15	1	lin
+03-Mar-15	4	lin
+23-Apr-13	4	lin
+19-Apr-13	3	lin
+16-Mar-13	4	lin
+14-Feb-13	4	lin
+02-Feb-13	4	lin
+02-Feb-13	3	lin
+23-Jan-13	3	lin
+21-Jan-13	2	lin
+04-Dec-12	3	lin
+11-Oct-12	5	lin
+2020-11-12	5	mcd
+11-Nov-20	5	mcd
+12-Nov-20	4	mcd
+11-Nov-20	4	mcd
+10-Nov-20	4	mcd
+10-Nov-20	4	mcd
+10-Nov-20	4	mcd
+08-Nov-20	5	mcd
+08-Nov-20	4	mcd
+07-Nov-20	5	mcd
+04-Sep-20	3	mcd
+04-Sep-20	3	mcd
+04-Sep-20	3	mcd
+04-Sep-20	3	mcd
+20-Aug-20	5	mcd
+20-Aug-20	5	mcd
+20-Aug-20	5	mcd
+21-Aug-20	5	mcd
+25-Sep-20	1	mcd
+25-Sep-20	1	mcd
+20-Mar-19	3	mcd
+05-Mar-19	5	mcd
+06-Mar-19	5	mcd
+20-Mar-19	2	mcd
+05-Mar-19	4	mcd
+05-Mar-19	4	mcd
+06-Mar-19	4	mcd
+19-Mar-19	3	mcd
+04-Mar-19	5	mcd
+09-Apr-19	1	mcd
+27-Oct-16	5	mcd
+02-Dec-16	1	mcd
+27-Oct-16	4	mcd
+10-Nov-16	3	mcd
+10-Nov-16	3	mcd
+26-Oct-16	5	mcd
+10-Nov-16	2	mcd
+26-Oct-16	4	mcd
+26-Oct-16	4	mcd
+09-Nov-16	3	mcd
+26-Nov-14	3	mcd
+17-Dec-14	1	mcd
+12-Nov-14	4	mcd
+16-Dec-14	1	mcd
+15-Dec-14	1	mcd
+24-Nov-14	3	mcd
+14-Dec-14	1	mcd
+08-Nov-14	4	mcd
+13-Dec-14	1	mcd
+13-Dec-14	1	mcd
+2020-11-12	5	mmm
+06-Nov-20	5	mmm
+09-Nov-20	3	mmm
+17-Oct-20	5	mmm
+15-Oct-20	5	mmm
+10-Oct-20	3	mmm
+22-Oct-20	1	mmm
+30-Jul-20	1	mmm
+15-Jul-20	1	mmm
+02-Jun-20	5	mmm
+17-Feb-20	4	mmm
+14-Feb-20	5	mmm
+13-Feb-20	4	mmm
+26-Feb-20	2	mmm
+12-Feb-20	4	mmm
+10-Feb-20	5	mmm
+06-Feb-20	4	mmm
+03-Feb-20	4	mmm
+08-Feb-20	4	mmm
+22-Feb-20	2	mmm
+20-Apr-19	4	mmm
+18-Apr-19	5	mmm
+16-Apr-19	5	mmm
+24-Apr-19	3	mmm
+28-Apr-19	3	mmm
+13-Apr-19	4	mmm
+11-Apr-19	5	mmm
+25-Apr-19	2	mmm
+10-Apr-19	4	mmm
+18-Apr-19	3	mmm
+17-Jun-18	3	mmm
+21-Jun-18	3	mmm
+05-Jun-18	4	mmm
+05-Jun-18	4	mmm
+04-Jun-18	4	mmm
+03-Jun-18	4	mmm
+02-Jun-18	5	mmm
+29-May-18	5	mmm
+11-Jun-18	3	mmm
+27-May-18	5	mmm
+11-Jun-17	5	mmm
+25-Jun-17	3	mmm
+22-Jun-17	3	mmm
+08-Jun-17	5	mmm
+21-Jun-17	3	mmm
+22-Jun-17	3	mmm
+07-Jun-17	4	mmm
+01-Jun-17	5	mmm
+05-Jun-17	4	mmm
+08-Jul-17	1	mmm
+02-Sep-16	2	mmm
+01-Sep-16	3	mmm
+12-Aug-16	4	mmm
+25-Aug-16	3	mmm
+12-Aug-16	5	mmm
+24-Aug-16	3	mmm
+06-Aug-16	5	mmm
+05-Aug-16	5	mmm
+17-Aug-16	3	mmm
+16-Aug-16	3	mmm
+16-Nov-15	2	mmm
+04-Nov-15	3	mmm
+14-Nov-15	3	mmm
+01-Nov-15	3	mmm
+27-Oct-15	4	mmm
+27-Oct-15	4	mmm
+06-Nov-15	3	mmm
+05-Nov-15	3	mmm
+07-Nov-15	3	mmm
+22-Oct-15	4	mmm
+11-Oct-14	4	mmm
+01-Oct-14	4	mmm
+09-Oct-14	4	mmm
+08-Oct-14	5	mmm
+07-Oct-14	4	mmm
+25-Sep-14	5	mmm
+14-Oct-14	3	mmm
+13-Oct-14	3	mmm
+13-Oct-14	3	mmm
+08-Oct-14	3	mmm
+07-Sep-12	5	mmm
+25-Sep-12	3	mmm
+11-Sep-12	5	mmm
+09-Sep-12	5	mmm
+09-Sep-12	5	mmm
+19-Sep-12	3	mmm
+18-Sep-12	2	mmm
+12-Sep-12	3	mmm
+26-Aug-12	4	mmm
+28-Aug-12	4	mmm
+10-Nov-20	5	msft
+07-Nov-20	5	msft
+11-Nov-20	4	msft
+26-Oct-20	5	msft
+26-Oct-20	5	msft
+09-Nov-20	4	msft
+22-Oct-20	5	msft
+20-Oct-20	5	msft
+16-Oct-20	5	msft
+14-Oct-20	5	msft
+07-Jan-20	5	msft
+21-Jan-20	4	msft
+06-Jan-20	5	msft
+06-Jan-20	5	msft
+20-Jan-20	4	msft
+20-Jan-20	4	msft
+20-Jan-20	4	msft
+17-Jan-20	4	msft
+05-Jan-20	5	msft
+05-Jan-20	5	msft
+24-Aug-18	1	msft
+10-Aug-18	4	msft
+30-Jul-18	3	msft
+13-Aug-18	3	msft
+29-Jul-18	5	msft
+12-Aug-18	4	msft
+12-Aug-18	4	msft
+13-Aug-18	2	msft
+12-Aug-18	3	msft
+13-Aug-18	3	msft
+18-May-17	3	msft
+02-May-17	5	msft
+16-May-17	4	msft
+17-May-17	4	msft
+16-May-17	3	msft
+16-May-17	3	msft
+02-May-17	5	msft
+16-May-17	4	msft
+30-Apr-17	5	msft
+14-May-17	4	msft
+08-May-16	3	msft
+23-Apr-16	5	msft
+23-Apr-16	5	msft
+07-May-16	4	msft
+07-May-16	4	msft
+05-May-16	3	msft
+22-Apr-16	5	msft
+22-Apr-16	5	msft
+22-Apr-16	5	msft
+06-May-16	4	msft
+17-Jun-15	5	msft
+05-Jul-15	3	msft
+26-Jul-15	1	msft
+28-Jun-15	2	msft
+02-Jul-15	3	msft
+04-Jul-15	3	msft
+19-Jun-15	5	msft
+19-Jun-15	5	msft
+25-Jun-15	2	msft
+03-Jul-15	4	msft
+01-May-14	5	msft
+02-May-14	5	msft
+15-May-14	4	msft
+12-May-14	4	msft
+13-May-14	3	msft
+15-May-14	3	msft
+14-May-14	4	msft
+11-May-14	4	msft
+29-Apr-14	5	msft
+29-Apr-14	5	msft
+14-Oct-12	2	msft
+08-Oct-12	5	msft
+18-Oct-12	3	msft
+20-Oct-12	4	msft
+20-Oct-12	4	msft
+20-Oct-12	4	msft
+06-Oct-12	5	msft
+09-Oct-12	5	msft
+19-Oct-12	4	msft
+02-Oct-12	5	msft
+07-Apr-10	3	msft
+05-Apr-10	4	msft
+13-Apr-10	4	msft
+08-Apr-10	3	msft
+26-Apr-10	1	msft
+07-Apr-10	4	msft
+04-Apr-10	4	msft
+09-Apr-10	4	msft
+03-Apr-10	4	msft
+04-Apr-10	3	msft
+07-Jul-20	5	mtd
+13-Sep-20	4	mtd
+26-Aug-20	2	mtd
+28-May-20	5	mtd
+07-Aug-19	3	mtd
+10-May-19	3	mtd
+14-Jan-19	5	mtd
+14-Jan-19	5	mtd
+11-Oct-18	5	mtd
+28-Sep-18	5	mtd
+15-Jul-20	5	mtd
+22-Jul-20	3	mtd
+30-Jun-20	2	mtd
+15-Jun-20	4	mtd
+13-Jun-20	4	mtd
+22-Jun-20	2	mtd
+09-Jun-20	4	mtd
+06-Jun-20	5	mtd
+15-May-20	4	mtd
+26-May-20	3	mtd
+22-Aug-19	3	mtd
+05-Aug-19	5	mtd
+09-Aug-19	2	mtd
+16-Jul-19	5	mtd
+06-Aug-19	1	mtd
+25-Jun-19	5	mtd
+18-Jun-19	5	mtd
+04-Jul-19	3	mtd
+27-Jun-19	2	mtd
+26-Jun-19	3	mtd
+14-Jan-19	5	mtd
+14-Jan-19	5	mtd
+14-Jan-19	5	mtd
+14-Jan-19	5	mtd
+14-Jan-19	5	mtd
+14-Jan-19	5	mtd
+14-Jan-19	5	mtd
+14-Jan-19	5	mtd
+14-Jan-19	5	mtd
+14-Jan-19	4	mtd
+23-Jun-18	5	mtd
+22-Jun-18	4	mtd
+02-Jul-18	3	mtd
+26-Jun-18	2	mtd
+31-May-18	3	mtd
+04-Jun-18	2	mtd
+22-Jun-18	1	mtd
+16-May-18	4	mtd
+18-May-18	4	mtd
+30-May-18	2	mtd
+22-Jun-17	3	mtd
+10-Jun-17	2	mtd
+29-May-17	4	mtd
+26-May-17	5	mtd
+18-Jun-17	1	mtd
+23-May-17	3	mtd
+04-May-17	5	mtd
+10-May-17	3	mtd
+18-Apr-17	5	mtd
+18-Apr-17	5	mtd
+16-Aug-16	5	mtd
+16-Aug-16	1	mtd
+12-Jul-16	5	mtd
+12-Jul-16	3	mtd
+14-Jul-16	3	mtd
+30-Jun-16	4	mtd
+06-Jul-16	2	mtd
+25-May-16	4	mtd
+28-May-16	4	mtd
+07-Jun-16	2	mtd
+13-Aug-15	3	mtd
+27-Jul-15	5	mtd
+21-Jul-15	4	mtd
+22-Jul-15	3	mtd
+10-Jul-15	4	mtd
+28-Jun-15	3	mtd
+12-Jun-15	5	mtd
+21-Jun-15	3	mtd
+23-Jun-15	1	mtd
+30-May-15	3	mtd
+03-Jul-13	5	mtd
+03-Jul-13	3	mtd
+27-May-13	4	mtd
+18-Apr-13	2	mtd
+19-Mar-13	4	mtd
+16-Dec-12	4	mtd
+21-Nov-12	5	mtd
+20-Nov-12	4	mtd
+04-Nov-12	4	mtd
+26-Oct-12	5	mtd
+11-Nov-20	5	nke
+09-Nov-20	5	nke
+05-Nov-20	5	nke
+25-Oct-20	5	nke
+06-Nov-20	3	nke
+21-Oct-20	5	nke
+28-Oct-20	4	nke
+28-Oct-20	4	nke
+20-Oct-20	2	nke
+13-Oct-20	4	nke
+31-Jul-20	5	nke
+31-Jul-20	5	nke
+14-Aug-20	4	nke
+14-Aug-20	4	nke
+14-Aug-20	3	nke
+13-Aug-20	4	nke
+13-Aug-20	4	nke
+12-Aug-20	4	nke
+28-Jul-20	5	nke
+11-Aug-20	4	nke
+24-Jul-19	5	nke
+25-Jul-19	5	nke
+07-Aug-19	4	nke
+07-Aug-19	4	nke
+08-Aug-19	4	nke
+05-Aug-19	3	nke
+06-Aug-19	3	nke
+06-Aug-19	4	nke
+03-Aug-19	4	nke
+06-Aug-19	3	nke
+23-Aug-18	3	nke
+25-Aug-18	2	nke
+09-Aug-18	5	nke
+12-Sep-18	1	nke
+12-Aug-18	4	nke
+22-Aug-18	4	nke
+24-Aug-18	2	nke
+22-Aug-18	4	nke
+18-Aug-18	4	nke
+20-Aug-18	4	nke
+12-Oct-17	5	nke
+25-Oct-17	3	nke
+24-Oct-17	4	nke
+21-Oct-17	4	nke
+24-Oct-17	3	nke
+09-Oct-17	5	nke
+23-Oct-17	4	nke
+08-Oct-17	5	nke
+08-Oct-17	5	nke
+22-Oct-17	4	nke
+27-Jan-17	2	nke
+11-Jan-17	5	nke
+25-Jan-17	4	nke
+16-Feb-17	1	nke
+25-Jan-17	3	nke
+10-Jan-17	5	nke
+10-Jan-17	5	nke
+25-Jan-17	4	nke
+25-Jan-17	2	nke
+23-Jan-17	3	nke
+14-Apr-16	1	nke
+24-Mar-16	2	nke
+23-Mar-16	3	nke
+22-Mar-16	4	nke
+22-Mar-16	4	nke
+18-Mar-16	3	nke
+21-Mar-16	4	nke
+20-Mar-16	2	nke
+05-Mar-16	5	nke
+18-Mar-16	4	nke
+19-Jun-15	4	nke
+19-Jun-15	3	nke
+04-Jun-15	5	nke
+04-Jun-15	5	nke
+18-Jun-15	4	nke
+19-Jun-15	2	nke
+19-Jun-15	3	nke
+03-Jun-15	5	nke
+03-Jun-15	5	nke
+14-Jun-15	4	nke
+06-Nov-13	5	nke
+06-Nov-13	5	nke
+10-Nov-13	2	nke
+11-Nov-13	4	nke
+25-Oct-13	5	nke
+24-Oct-13	5	nke
+06-Nov-13	4	nke
+03-Nov-13	3	nke
+04-Nov-13	4	nke
+17-Oct-13	3	nke
+22-Sep-20	5	sq
+15-Sep-20	2	sq
+06-Sep-20	1	sq
+29-Jul-20	5	sq
+21-Jul-20	5	sq
+21-Jul-20	5	sq
+19-May-20	5	sq
+19-Nov-19	5	sq
+24-Jun-19	4	sq
+03-Jun-19	4	sq
+12-May-20	4	sq
+12-May-20	4	sq
+30-Apr-20	5	sq
+02-May-20	5	sq
+16-Apr-20	5	sq
+27-Apr-20	5	sq
+29-Mar-20	5	sq
+01-Apr-20	5	sq
+26-Apr-20	1	sq
+18-Mar-20	5	sq
+19-Sep-19	5	sq
+12-Sep-19	4	sq
+19-Oct-19	1	sq
+21-Oct-19	1	sq
+26-Sep-19	3	sq
+25-Sep-19	3	sq
+12-Sep-19	5	sq
+25-Sep-19	3	sq
+16-Sep-19	3	sq
+04-Sep-19	5	sq
+13-Feb-19	1	sq
+10-Jan-19	4	sq
+14-Jan-19	5	sq
+17-Jan-19	1	sq
+16-Dec-18	4	sq
+02-Dec-18	5	sq
+16-Nov-18	4	sq
+29-Oct-18	5	sq
+05-Dec-18	1	sq
+07-Nov-18	4	sq
+03-Oct-17	5	sq
+07-Oct-17	5	sq
+05-Oct-17	5	sq
+04-Oct-17	4	sq
+08-Oct-17	2	sq
+22-Sep-17	4	sq
+23-Sep-17	5	sq
+21-Sep-17	4	sq
+03-Oct-17	3	sq
+08-Oct-17	1	sq
+19-Jan-17	4	sq
+17-Jan-17	4	sq
+28-Dec-16	5	sq
+01-Jan-17	2	sq
+04-Jan-17	4	sq
+27-Dec-16	2	sq
+27-Dec-16	3	sq
+26-Dec-16	2	sq
+12-Dec-16	3	sq
+14-Dec-16	5	sq
+30-Aug-16	5	sq
+30-Aug-16	5	sq
+30-Aug-16	5	sq
+30-Aug-16	5	sq
+30-Aug-16	5	sq
+30-Aug-16	4	sq
+30-Aug-16	4	sq
+29-Aug-16	5	sq
+29-Aug-16	5	sq
+09-Sep-16	2	sq
+18-Feb-16	5	sq
+08-Mar-16	1	sq
+22-Mar-16	1	sq
+10-Feb-16	5	sq
+21-Feb-16	2	sq
+09-Feb-16	4	sq
+04-Mar-16	1	sq
+22-Jan-16	5	sq
+03-Feb-16	3	sq
+07-Jan-16	5	sq
+14-Oct-14	5	sq
+15-Oct-14	5	sq
+14-Oct-14	5	sq
+14-Oct-14	5	sq
+14-Oct-14	5	sq
+14-Oct-14	5	sq
+17-Oct-14	4	sq
+17-Oct-14	4	sq
+14-Oct-14	4	sq
+14-Oct-14	4	sq
+30-Jul-14	5	sq
+28-Jul-14	5	sq
+15-Jul-14	5	sq
+17-Jun-14	5	sq
+27-May-14	5	sq
+20-May-14	4	sq
+12-May-14	4	sq
+19-May-14	2	sq
+02-Apr-14	5	sq
+27-Dec-13	5	sq
+08-Nov-20	5	tjx
+26-Oct-20	5	tjx
+20-Oct-20	4	tjx
+19-Oct-20	4	tjx
+24-Oct-20	3	tjx
+09-Oct-20	4	tjx
+09-Oct-20	4	tjx
+21-Oct-20	3	tjx
+08-Oct-20	4	tjx
+07-Oct-20	5	tjx
+21-Jul-20	5	tjx
+20-Jul-20	5	tjx
+15-Jul-20	4	tjx
+25-Jul-20	3	tjx
+12-Jul-20	5	tjx
+21-Jul-20	3	tjx
+03-Jul-20	5	tjx
+17-Jul-20	2	tjx
+03-Jul-20	4	tjx
+15-Jul-20	3	tjx
+31-Aug-18	4	tjx
+20-Aug-18	5	tjx
+30-Aug-18	4	tjx
+05-Sep-18	3	tjx
+05-Sep-18	3	tjx
+28-Aug-18	3	tjx
+14-Aug-18	4	tjx
+12-Aug-18	5	tjx
+07-Aug-18	2	tjx
+25-Aug-18	2	tjx
+23-Jan-17	5	tjx
+07-Feb-17	2	tjx
+16-Jan-17	4	tjx
+10-Jan-17	5	tjx
+24-Jan-17	3	tjx
+09-Feb-17	1	tjx
+09-Jan-17	4	tjx
+08-Jan-17	4	tjx
+05-Feb-17	1	tjx
+27-Dec-16	5	tjx
+01-Nov-15	2	tjx
+16-Oct-15	5	tjx
+20-Oct-15	4	tjx
+01-Nov-15	3	tjx
+31-Oct-15	3	tjx
+31-Oct-15	3	tjx
+28-Oct-15	3	tjx
+26-Oct-15	3	tjx
+10-Oct-15	4	tjx
+08-Oct-15	4	tjx
+09-Mar-15	3	tjx
+21-Feb-15	5	tjx
+18-Feb-15	5	tjx
+05-Mar-15	2	tjx
+24-Feb-15	3	tjx
+16-Feb-15	4	tjx
+02-Mar-15	3	tjx
+21-Mar-15	1	tjx
+13-Feb-15	4	tjx
+11-Feb-15	4	tjx
+14-Feb-13	2	tjx
+21-Jan-13	3	tjx
+12-Jan-13	3	tjx
+07-Dec-12	5	tjx
+08-Dec-12	3	tjx
+13-Dec-12	1	tjx
+08-Dec-12	1	tjx
+30-Oct-12	5	tjx
+13-Nov-12	2	tjx
+21-Oct-12	2	tjx
+29-Oct-20	5	tmo
+23-Sep-20	5	tmo
+20-Sep-20	3	tmo
+26-Aug-20	4	tmo
+24-Aug-20	4	tmo
+30-Aug-20	2	tmo
+08-Sep-20	1	tmo
+05-Aug-20	3	tmo
+31-Jul-20	3	tmo
+18-Jun-20	5	tmo
+15-Jun-20	4	tmo
+12-Jun-20	5	tmo
+16-Jul-20	1	tmo
+10-Jun-20	4	tmo
+10-Jun-20	4	tmo
+24-Jun-20	3	tmo
+08-Jun-20	5	tmo
+08-Jun-20	5	tmo
+21-Jun-20	2	tmo
+07-Jun-20	4	tmo
+18-Jul-19	1	tmo
+25-Jul-19	1	tmo
+20-Jun-19	5	tmo
+21-Jun-19	5	tmo
+04-Jul-19	3	tmo
+24-Jul-19	1	tmo
+19-Jun-19	4	tmo
+16-Jun-19	4	tmo
+26-Jun-19	3	tmo
+15-Jun-19	5	tmo
+01-Aug-18	5	tmo
+30-Jul-18	4	tmo
+20-Aug-18	2	tmo
+31-Jul-18	4	tmo
+20-Aug-18	2	tmo
+05-Aug-18	4	tmo
+06-Aug-18	4	tmo
+09-Aug-18	3	tmo
+15-Aug-18	3	tmo
+12-Aug-18	3	tmo
+10-Oct-17	4	tmo
+12-Nov-17	1	tmo
+16-Oct-17	3	tmo
+08-Nov-17	1	tmo
+09-Nov-17	1	tmo
+04-Oct-17	5	tmo
+04-Oct-17	5	tmo
+04-Oct-17	5	tmo
+07-Nov-17	1	tmo
+04-Oct-17	4	tmo
+22-Jan-17	3	tmo
+15-Jan-17	3	tmo
+18-Jan-17	2	tmo
+04-Jan-17	4	tmo
+04-Jan-17	4	tmo
+03-Jan-17	5	tmo
+02-Jan-17	4	tmo
+02-Feb-17	1	tmo
+10-Jan-17	2	tmo
+27-Dec-16	5	tmo
+03-Mar-16	2	tmo
+03-Mar-16	3	tmo
+29-Feb-16	3	tmo
+01-Mar-16	2	tmo
+24-Feb-16	3	tmo
+26-Feb-16	2	tmo
+17-Feb-16	3	tmo
+05-Feb-16	4	tmo
+10-Mar-16	1	tmo
+18-Feb-16	3	tmo
+15-Mar-15	3	tmo
+26-Feb-15	4	tmo
+27-Mar-15	1	tmo
+23-Feb-15	5	tmo
+27-Feb-15	4	tmo
+22-Feb-15	5	tmo
+26-Feb-15	4	tmo
+25-Feb-15	4	tmo
+31-Mar-15	1	tmo
+06-Mar-15	2	tmo
+10-Feb-13	5	tmo
+11-Feb-13	5	tmo
+11-Feb-13	4	tmo
+20-Feb-13	2	tmo
+13-Feb-13	2	tmo
+06-Feb-13	3	tmo
+08-Feb-13	3	tmo
+31-Jan-13	2	tmo
+20-Jan-13	5	tmo
+27-Jan-13	3	tmo
+12-Oct-20	5	twdc
+16-Sep-20	5	twdc
+30-Sep-20	1	twdc
+10-Aug-20	2	twdc
+27-May-20	5	twdc
+09-May-20	5	twdc
+08-Mar-20	5	twdc
+18-Nov-19	3	twdc
+23-Sep-19	5	twdc
+04-Sep-19	4	twdc
+07-Jul-20	5	twdc
+07-Jul-20	5	twdc
+07-Jul-20	5	twdc
+07-Jul-20	5	twdc
+21-Jul-20	4	twdc
+21-Jul-20	4	twdc
+06-Jul-20	5	twdc
+05-Jul-20	5	twdc
+19-Jul-20	4	twdc
+04-Jul-20	5	twdc
+22-Jun-19	3	twdc
+17-Jun-19	4	twdc
+11-Jul-19	1	twdc
+20-Jun-19	2	twdc
+19-Jun-19	3	twdc
+04-Jun-19	5	twdc
+04-Jun-19	5	twdc
+04-Jun-19	5	twdc
+19-Jun-19	2	twdc
+03-Jun-19	5	twdc
+17-May-18	1	twdc
+17-May-18	1	twdc
+25-Apr-18	2	twdc
+24-Apr-18	3	twdc
+09-Apr-18	5	twdc
+23-Apr-18	4	twdc
+07-Apr-18	5	twdc
+17-Apr-18	3	twdc
+16-Apr-18	3	twdc
+18-Apr-18	4	twdc
+08-Mar-17	4	twdc
+08-Mar-17	4	twdc
+05-Mar-17	4	twdc
+28-Feb-17	3	twdc
+03-Mar-17	4	twdc
+16-Feb-17	5	twdc
+16-Feb-17	5	twdc
+02-Mar-17	4	twdc
+27-Feb-17	3	twdc
+27-Feb-17	4	twdc
+29-Mar-16	5	twdc
+29-Mar-16	5	twdc
+12-Apr-16	2	twdc
+13-Apr-16	2	twdc
+28-Mar-16	5	twdc
+29-Mar-16	5	twdc
+11-Apr-16	4	twdc
+28-Mar-16	5	twdc
+10-Apr-16	4	twdc
+10-Apr-16	4	twdc
+14-Jul-15	3	twdc
+29-Jun-15	5	twdc
+29-Jun-15	5	twdc
+28-Jun-15	5	twdc
+12-Jul-15	4	twdc
+12-Jul-15	4	twdc
+27-Jun-15	5	twdc
+11-Jul-15	4	twdc
+26-Jun-15	5	twdc
+26-Jun-15	5	twdc
+17-Mar-14	4	twdc
+05-Mar-14	5	twdc
+19-Mar-14	4	twdc
+19-Mar-14	4	twdc
+19-Mar-14	4	twdc
+19-Mar-14	2	twdc
+10-Mar-14	4	twdc
+16-Mar-14	3	twdc
+10-Mar-14	4	twdc
+11-Mar-14	2	twdc
+06-May-10	2	twdc
+04-May-10	2	twdc
+25-Apr-10	3	twdc
+06-Apr-10	3	twdc
+27-Mar-10	4	twdc
+26-Mar-10	4	twdc
+20-Mar-10	4	twdc
+20-Mar-10	2	twdc
+08-Mar-10	5	twdc
+15-Mar-10	2	twdc
+11-Sep-20	5	txn
+17-Jun-20	5	txn
+15-Jun-20	5	txn
+05-Mar-20	4	txn
+31-Oct-19	5	txn
+20-Jun-19	3	txn
+11-Dec-17	1	txn
+22-Aug-17	2	txn
+15-Apr-16	5	txn
+10-Feb-16	4	txn
+07-Oct-19	3	txn
+19-Sep-19	5	txn
+17-Sep-19	5	txn
+21-Oct-19	1	txn
+11-Sep-19	5	txn
+25-Sep-19	2	txn
+22-Sep-19	2	txn
+05-Sep-19	5	txn
+16-Sep-19	2	txn
+04-Sep-19	3	txn
+10-Apr-18	3	txn
+02-Apr-18	3	txn
+25-Apr-18	1	txn
+21-Mar-18	5	txn
+04-Apr-18	4	txn
+03-Apr-18	4	txn
+03-Mar-18	5	txn
+02-Apr-18	3	txn
+29-Mar-18	4	txn
+27-Mar-18	4	txn
+17-Jan-17	5	txn
+03-Feb-17	4	txn
+03-Feb-17	4	txn
+30-Jan-17	4	txn
+01-Feb-17	3	txn
+26-Jan-17	4	txn
+27-Jan-17	4	txn
+24-Jan-17	4	txn
+27-Jan-17	2	txn
+25-Jan-17	3	txn
+15-Dec-15	5	txn
+23-Dec-15	2	txn
+27-Dec-15	4	txn
+27-Dec-15	4	txn
+13-Jan-16	1	txn
+11-Dec-15	5	txn
+11-Dec-15	5	txn
+09-Dec-15	5	txn
+23-Dec-15	4	txn
+20-Dec-15	4	txn
+26-Jan-15	4	txn
+22-Jan-15	4	txn
+21-Jan-15	4	txn
+18-Jan-15	3	txn
+19-Jan-15	3	txn
+18-Jan-15	4	txn
+17-Jan-15	4	txn
+16-Jan-15	4	txn
+10-Jan-15	3	txn
+12-Jan-15	4	txn
+15-Jan-14	1	txn
+09-Dec-13	5	txn
+10-Dec-13	2	txn
+10-Dec-13	3	txn
+12-Dec-13	3	txn
+07-Dec-13	3	txn
+13-Dec-13	4	txn
+12-Dec-13	4	txn
+02-Dec-13	3	txn
+26-Nov-13	4	txn
+15-Sep-12	5	txn
+30-Sep-12	4	txn
+28-Sep-12	4	txn
+27-Sep-12	4	txn
+27-Sep-12	4	txn
+10-Sep-12	5	txn
+21-Sep-12	4	txn
+19-Sep-12	2	txn
+04-Sep-12	5	txn
+18-Sep-12	4	txn
+14-Feb-10	4	txn
+05-Feb-10	4	txn
+10-Feb-10	2	txn
+09-Feb-10	3	txn
+11-Feb-10	2	txn
+25-Jan-10	5	txn
+26-Jan-10	5	txn
+05-Feb-10	4	txn
+04-Feb-10	3	txn
+29-Jan-10	3	txn
+03-Feb-20	5	v
+05-Jul-20	2	v
+11-May-20	4	v
+07-Feb-20	3	v
+23-Dec-19	5	v
+12-Apr-19	5	v
+07-Feb-19	3	v
+13-Mar-18	3	v
+18-Dec-17	1	v
+22-Jun-17	4	v
+26-Feb-20	5	v
+25-Feb-20	4	v
+10-Mar-20	3	v
+23-Feb-20	4	v
+21-Feb-20	5	v
+21-Feb-20	4	v
+21-Feb-20	4	v
+01-Mar-20	3	v
+17-Feb-20	4	v
+21-Mar-20	1	v
+05-Feb-19	4	v
+13-Feb-19	4	v
+06-Feb-19	5	v
+02-Feb-19	2	v
+30-Jan-19	5	v
+09-Feb-19	4	v
+08-Feb-19	5	v
+22-Feb-19	3	v
+12-Mar-19	1	v
+14-Mar-19	1	v
+15-Jan-18	4	v
+06-Feb-18	4	v
+11-Feb-18	2	v
+23-Jan-18	5	v
+02-Feb-18	5	v
+02-Feb-18	5	v
+31-Jan-18	4	v
+09-Feb-18	3	v
+11-Feb-18	3	v
+29-Jan-18	4	v
+30-Apr-17	3	v
+10-May-17	3	v
+19-May-17	1	v
+23-Apr-17	4	v
+18-Apr-17	5	v
+30-Apr-17	3	v
+06-Apr-17	2	v
+14-Apr-17	4	v
+17-Apr-17	3	v
+12-Apr-17	5	v
+01-Oct-16	5	v
+25-Sep-16	4	v
+30-Sep-16	4	v
+25-Sep-16	5	v
+18-Sep-16	5	v
+04-Sep-16	2	v
+05-Oct-16	2	v
+10-Jul-16	3	v
+23-Sep-16	5	v
+30-Oct-16	1	v
+25-Feb-16	1	v
+05-Nov-15	2	v
+04-Jan-16	2	v
+20-Jan-16	4	v
+09-Jan-16	2	v
+24-Jan-16	4	v
+25-Feb-16	1	v
+06-Feb-16	1	v
+24-Feb-16	1	v
+20-Jan-16	2	v
+09-Aug-15	1	v
+07-Jul-15	5	v
+25-Jul-15	3	v
+21-Jul-15	2	v
+22-Jun-15	4	v
+22-Jul-15	3	v
+27-Jun-15	4	v
+05-Jul-15	4	v
+30-Jun-15	4	v
+26-Jun-15	3	v
+08-Jul-14	3	v
+09-Jul-14	3	v
+01-Jul-14	2	v
+01-Jul-14	2	v
+29-Jun-14	2	v
+06-Jun-14	3	v
+30-May-14	4	v
+19-May-14	3	v
+29-May-14	4	v
+28-Jun-14	1	v
+09-May-12	4	v
+10-Jun-12	1	v
+18-Apr-12	4	v
+14-May-12	3	v
+14-May-12	3	v
+14-May-12	3	v
+16-Apr-12	4	v
+18-Apr-12	3	v
+01-Apr-12	3	v
+03-Apr-12	2	v
+30-Oct-20	5	vrsk
+19-Oct-20	4	vrsk
+28-Oct-20	2	vrsk
+12-Oct-20	4	vrsk
+05-Oct-20	4	vrsk
+02-Oct-20	5	vrsk
+15-Oct-20	3	vrsk
+15-Oct-20	2	vrsk
+28-Sep-20	4	vrsk
+26-Sep-20	4	vrsk
+20-Aug-20	4	vrsk
+20-Aug-20	4	vrsk
+05-Aug-20	5	vrsk
+17-Aug-20	3	vrsk
+26-Jul-20	4	vrsk
+13-Jul-20	5	vrsk
+19-Jul-20	3	vrsk
+29-Jun-20	4	vrsk
+09-Jun-20	5	vrsk
+22-May-20	3	vrsk
+17-Sep-19	2	vrsk
+30-Aug-19	4	vrsk
+27-Aug-19	4	vrsk
+20-Aug-19	5	vrsk
+12-Aug-19	5	vrsk
+08-Aug-19	2	vrsk
+23-Jul-19	4	vrsk
+22-Jul-19	5	vrsk
+19-Jul-19	5	vrsk
+04-Jul-19	5	vrsk
+11-Jan-19	2	vrsk
+12-Dec-18	5	vrsk
+23-Nov-18	5	vrsk
+14-Nov-18	3	vrsk
+19-Oct-18	5	vrsk
+15-Oct-18	4	vrsk
+29-Oct-18	3	vrsk
+17-Oct-18	3	vrsk
+04-Oct-18	2	vrsk
+02-Oct-18	2	vrsk
+30-Jan-18	3	vrsk
+09-Jan-18	5	vrsk
+16-Jan-18	3	vrsk
+02-Jan-18	2	vrsk
+03-Jan-18	3	vrsk
+28-Dec-17	2	vrsk
+01-Dec-17	5	vrsk
+15-Nov-17	4	vrsk
+09-Nov-17	4	vrsk
+19-Nov-17	2	vrsk
+11-Jul-17	1	vrsk
+13-Jun-17	3	vrsk
+21-May-17	5	vrsk
+10-May-17	4	vrsk
+29-Apr-17	5	vrsk
+26-Apr-17	4	vrsk
+17-Apr-17	4	vrsk
+05-Apr-17	4	vrsk
+10-Apr-17	3	vrsk
+29-Mar-17	4	vrsk
+28-Jun-16	5	vrsk
+13-Jul-16	3	vrsk
+21-Jun-16	4	vrsk
+10-Jun-16	2	vrsk
+25-May-16	4	vrsk
+20-May-16	2	vrsk
+11-May-16	5	vrsk
+09-Apr-16	3	vrsk
+28-Apr-16	2	vrsk
+13-Apr-16	2	vrsk
+03-Dec-15	3	vrsk
+17-Nov-15	4	vrsk
+05-Nov-15	4	vrsk
+11-Nov-15	2	vrsk
+04-Nov-15	3	vrsk
+13-Oct-15	3	vrsk
+23-Oct-15	3	vrsk
+14-Nov-15	1	vrsk
+24-Oct-15	3	vrsk
+12-Oct-15	4	vrsk
+06-Jan-15	5	vrsk
+14-Jan-15	3	vrsk
+05-Feb-15	1	vrsk
+05-Nov-14	3	vrsk
+28-Aug-14	3	vrsk
+28-Jul-14	2	vrsk
+10-Jul-14	3	vrsk
+08-Jun-14	4	vrsk
+06-May-14	3	vrsk
+04-May-14	4	vrsk
+21-Feb-12	4	vrsk
+12-Dec-11	2	vrsk
+19-Dec-11	1	vrsk
+14-Oct-11	2	vrsk
+13-Jun-11	3	vrsk
+07-Mar-11	3	vrsk
+16-Feb-11	2	vrsk
+08-Dec-10	4	vrsk
+26-Oct-20	5	wcn
+02-Oct-20	5	wcn
+21-Sep-20	5	wcn
+23-Oct-20	1	wcn
+10-Mar-20	4	wcn
+03-Feb-20	2	wcn
+21-Dec-19	4	wcn
+04-Nov-19	4	wcn
+17-Oct-19	3	wcn
+06-Sep-19	4	wcn
+25-Jul-17	3	wcn
+20-Oct-20	5	wcn
+24-Sep-20	5	wcn
+24-Sep-20	3	wcn
+31-Aug-20	5	wcn
+28-Aug-20	5	wcn
+06-Oct-20	1	wcn
+02-Oct-20	1	wcn
+26-Aug-20	5	wcn
+25-Aug-20	5	wcn
+10-Aug-20	5	wcn
+10-Aug-20	5	wcn
+10-Aug-20	5	wcn
+10-Aug-20	5	wcn
+10-Aug-20	5	wcn
+10-Aug-20	5	wcn
+24-Aug-20	4	wcn
+22-Aug-20	4	wcn
+07-Aug-20	5	wcn
+07-Aug-20	5	wcn
+07-Aug-20	3	wcn
+06-Aug-20	4	wcn
+17-Jul-20	5	wcn
+20-Aug-20	1	wcn
+01-Jul-20	5	wcn
+21-Jun-20	4	wcn
+21-Jun-20	4	wcn
+27-May-20	2	wcn
+26-May-20	3	wcn
+23-Apr-20	5	wcn
+06-Dec-19	5	wcn
+09-Dec-19	5	wcn
+06-Dec-19	5	wcn
+06-Dec-19	5	wcn
+07-Jan-20	1	wcn
+17-Dec-19	3	wcn
+21-Dec-19	1	wcn
+10-Dec-19	1	wcn
+30-Oct-19	3	wcn
+11-Oct-19	5	wcn
+03-Jan-19	2	wcn
+25-Dec-18	3	wcn
+07-Dec-18	3	wcn
+27-Dec-18	1	wcn
+04-Dec-18	3	wcn
+19-Oct-18	5	wcn
+13-Nov-18	1	wcn
+14-Sep-18	5	wcn
+10-Oct-18	1	wcn
+15-Aug-18	5	wcn
+09-Apr-18	1	wcn
+10-Mar-18	4	wcn
+25-Feb-18	4	wcn
+22-Feb-18	3	wcn
+01-Mar-18	1	wcn
+03-Feb-18	1	wcn
+13-Dec-17	2	wcn
+11-Nov-17	5	wcn
+19-Dec-17	1	wcn
+13-Nov-17	3	wcn
+13-Apr-17	2	wcn
+18-Mar-17	4	wcn
+26-Mar-17	1	wcn
+24-Feb-17	4	wcn
+12-Mar-17	1	wcn
+05-Feb-17	4	wcn
+11-Jan-17	5	wcn
+17-Jan-17	4	wcn
+11-Jan-17	3	wcn
+09-Feb-17	1	wcn
+17-Aug-16	3	wcn
+05-Aug-16	2	wcn
+13-Jul-16	3	wcn
+24-Jun-16	5	wcn
+29-Jun-16	2	wcn
+16-Jun-16	5	wcn
+05-Jul-16	1	wcn
+15-Jun-16	4	wcn
+20-May-16	3	wcn
+20-May-16	1	wcn
+14-Jul-15	3	wcn
+12-Jul-15	4	wcn
+31-Jul-15	1	wcn
+06-Jul-15	3	wcn
+05-Jul-15	3	wcn
+26-Jun-15	2	wcn
+10-Jun-15	4	wcn
+11-Jun-15	1	wcn
+20-May-15	2	wcn
+10-May-15	4	wcn
+12-May-20	5	zts
+16-Dec-18	3	zts
+05-Apr-18	3	zts
+22-Dec-17	4	zts
+11-Nov-17	1	zts
+26-Oct-15	4	zts
+07-Aug-15	3	zts
+08-Mar-14	2	zts
+11-Nov-20	5	zts
+03-Nov-20	5	zts
+13-May-20	5	zts
+08-May-20	5	zts
+30-Apr-20	5	zts
+23-May-20	1	zts
+10-Apr-20	5	zts
+21-May-20	1	zts
+05-Apr-20	5	zts
+05-Apr-20	1	zts
+26-Feb-20	4	zts
+25-Feb-20	4	zts
+06-Feb-19	2	zts
+22-Jan-19	4	zts
+03-Jan-19	5	zts
+26-Dec-18	4	zts
+21-Dec-18	4	zts
+24-Jan-19	1	zts
+18-Dec-18	4	zts
+06-Dec-18	5	zts
+12-Dec-18	3	zts
+21-Nov-18	4	zts
+03-Dec-17	3	zts
+04-Dec-17	3	zts
+18-Nov-17	2	zts
+06-Dec-17	1	zts
+15-Nov-17	2	zts
+02-Nov-17	2	zts
+12-Oct-17	5	zts
+24-Oct-17	2	zts
+14-Oct-17	2	zts
+03-Oct-17	4	zts
+08-Jan-17	1	zts
+13-Dec-16	3	zts
+02-Nov-16	4	zts
+02-Nov-16	3	zts
+21-Oct-16	3	zts
+04-Oct-16	5	zts
+15-Oct-16	3	zts
+27-Oct-16	1	zts
+30-Sep-16	2	zts
+22-Sep-16	2	zts
+28-Jan-16	5	zts
+05-Feb-16	2	zts
+03-Feb-16	2	zts
+03-Feb-16	3	zts
+03-Feb-16	3	zts
+14-Jan-16	4	zts
+15-Jan-16	5	zts
+25-Jan-16	3	zts
+10-Jan-16	4	zts
+21-Jan-16	3	zts
+12-Aug-15	4	zts
+18-Aug-15	3	zts
+17-Aug-15	2	zts
+18-Aug-15	2	zts
+31-Jul-15	5	zts
+07-Aug-15	3	zts
+13-Aug-15	3	zts
+11-Aug-15	2	zts
+07-Aug-15	3	zts
+09-Jul-15	4	zts
+24-Oct-14	4	zts
+29-Sep-14	3	zts
+13-Sep-14	4	zts
+14-Sep-14	2	zts
+27-Aug-14	5	zts
+03-Aug-14	5	zts
+12-Aug-14	3	zts
+31-Jul-14	3	zts
+16-Jul-14	2	zts
+23-Jun-14	3	zts
+01-Jan-11	3	zts
+11-May-10	4	zts
+16-Nov-09	4	zts
+13-Aug-09	4	zts
+26-Mar-09	3	zts
+07-Sep-08	3	zts
+
