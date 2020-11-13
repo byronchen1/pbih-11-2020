@@ -3,7 +3,7 @@ import pandas as pd
 from selenium import webdriver
 
 
-def glass_door(ticker, address, usr, pwd):                       
+def glass_door(ticker, address, usr, pwd, most_popular=True):                       
     driver = webdriver.Chrome() 
     login = 'https://www.glassdoor.ca/profile/login_input.htm'
     driver.get(login)
@@ -14,15 +14,24 @@ def glass_door(ticker, address, usr, pwd):
     
     driver.get(address)
     desc=[]
+    
+    if 'k' in total_reviews:
+        total_reviews = int(float(total_reviews.replace('k','')))*1000
+    else:
+        total_reviews = int(total_reviews)
+    
     try:
-        for i in range(10):
+        for i in range(1,11):
             elems = driver.find_elements_by_xpath('.//li[@class = "empReview cf  "]')
             for e in elems:
                 cdate = e.find_element_by_xpath('.//time[@class = "date subtle small"]').text
                 crate = e.find_element_by_xpath('.//div[@class = "v2__EIReviewsRatingsStylesV2__ratingNum v2__EIReviewsRatingsStylesV2__small"]').text
                 desc.append([cdate,crate])
-            next_ = driver.find_element_by_class_name('pagination__PaginationStyle__next').find_element_by_tag_name('a')
-            driver.get(next_.get_attribute('href'))
+            if most_popular = True:
+                next_ = driver.find_element_by_class_name('pagination__PaginationStyle__next').find_element_by_tag_name('a')
+                driver.get(next_.get_attribute('href'))
+            else:
+                driver.get(rf'{address[0:len(address)-4]}_P{int((total_reviews/100)*i)}.htm')
     except:
         pass
     df=pd.DataFrame(desc)
